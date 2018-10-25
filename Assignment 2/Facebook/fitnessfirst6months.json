@@ -1,0 +1,3806 @@
+{
+  "data": [
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-02-09T02:29:46+0000",
+            "message": "Farah ZuhanaZullkefle pnjm card nk msk ni..",
+            "id": "1574292049275105_1575903469113963"
+          },
+          {
+            "created_time": "2018-02-09T08:33:07+0000",
+            "message": "Ben Lucas your bags",
+            "id": "1574292049275105_1576103135760663"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "Train like a boxer in our all-new signature class, BOOM. Exclusively available at Fitness First Platinum 1 Mont' Kiara. #boxseries",
+      "id": "136798519691139_1574292049275105"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-02-07T08:00:35+0000",
+            "message": "Wow i love lions!!! Bojio!!!",
+            "id": "1574209215950055_1574219285949048"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Start your New Year with the prosperous blessing from our lions.",
+      "id": "136798519691139_1574209215950055"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Witness our special lion dance performances as we usher in a new and prosperous New Year.\n\n*Open to public",
+      "id": "136798519691139_1699661940076791"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-02-08T06:11:46+0000",
+            "message": "Do we need to bring our own mat?",
+            "id": "1570406699663640_1575081285862848"
+          },
+          {
+            "created_time": "2018-02-04T01:05:10+0000",
+            "message": "Register already🙂👍🏻",
+            "id": "1570406699663640_1571220739582236"
+          },
+          {
+            "created_time": "2018-02-05T06:43:04+0000",
+            "message": "👍",
+            "id": "1570406699663640_1572494996121477"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NAZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 4,
+          "can_comment": true
+        }
+      },
+      "message": "Take a break from your busy schedule to relax. \n\nSUNRISE FLOW YOGA\nDate: 10 February 2018 (Saturday) | Time: 7.15am - 8.15am\nVenue: The Gardens Mall, Level 6 rooftop\nInstructor: Sean Lee\n\n*Limited to 40 people.\n*Open for all members and non-members.",
+      "id": "136798519691139_1570406699663640"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-02-02T11:57:32+0000",
+            "message": "I upgraded at 1MK yesterday but did not receive my towel. Can I get it at other branches, eg Gardens?",
+            "id": "1569578503079793_1569761739728136"
+          },
+          {
+            "created_time": "2018-02-02T07:59:50+0000",
+            "message": "So existing ff platinum members would have to pay extra to gain access to cf clubs?",
+            "id": "1569578503079793_1569612649743045"
+          },
+          {
+            "created_time": "2018-02-02T07:24:29+0000",
+            "message": "Why is Celebrity 1U  and FF The Gardens not included in the list?",
+            "id": "1569578503079793_1569591549745155"
+          },
+          {
+            "created_time": "2018-02-02T17:52:24+0000",
+            "message": "Fitness First Malaysia I just upgraded mine during soft launch at The Curve on Monday, can I claim my free towel? Another question, total CF is 23 clubs excluding upcoming Mytown in KL and Paradigm in JB, so all access include both of these two new outlets? Thanks...",
+            "id": "1569578503079793_1570039413033702"
+          },
+          {
+            "created_time": "2018-02-02T08:25:48+0000",
+            "message": "so the existing platinum members would have to pay extra for that ? in order to upgrade ?",
+            "id": "1569578503079793_1569625969741713"
+          },
+          {
+            "created_time": "2018-02-02T09:03:09+0000",
+            "message": "Why members sign under AIA is not eligible to upgrade?",
+            "id": "1569578503079793_1569647783072865"
+          },
+          {
+            "created_time": "2018-02-07T08:05:08+0000",
+            "message": "Aiks i did not get my freebie 😧",
+            "id": "1569578503079793_1574222372615406"
+          },
+          {
+            "created_time": "2018-02-09T04:32:48+0000",
+            "message": "Hello Fitness First Malaysia i upgrade ready members shift at Wednesday 7/2/18 at outlet Fitness First Cheras Leisure Mall but did not not receive this free colling tower.",
+            "id": "1569578503079793_1575978262439817"
+          },
+          {
+            "created_time": "2018-02-02T08:55:45+0000",
+            "message": "Upgrade at fee for Platinum member? How that be!",
+            "id": "1569578503079793_1569643206406656"
+          },
+          {
+            "created_time": "2018-02-04T07:52:41+0000",
+            "message": "For existing platinum members who already paid lump sum can upgrade?",
+            "id": "1569578503079793_1571546466216330"
+          },
+          {
+            "created_time": "2018-02-02T14:15:28+0000",
+            "message": "Not exactly user friendly experience to click through for pricing to find yet another form to fill in. Let’s just say form abandoned",
+            "id": "1569578503079793_1569860243051619"
+          },
+          {
+            "created_time": "2018-02-03T14:46:21+0000",
+            "message": "The area options are only rm195 at CF. Is it the same for FF?",
+            "id": "1569578503079793_1570801816290795"
+          },
+          {
+            "created_time": "2018-02-02T08:34:13+0000",
+            "message": "in singapore ff there is no extra charges for this....",
+            "id": "1569578503079793_1569630206407956"
+          },
+          {
+            "created_time": "2018-02-03T03:08:34+0000",
+            "message": "Logan Maurice Norkamarul Norzam check it out",
+            "id": "1569578503079793_1570367626334214"
+          },
+          {
+            "created_time": "2018-02-08T02:24:19+0000",
+            "message": "Winnie Lai interested?",
+            "id": "1569578503079793_1574963302541313"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MjIZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 22,
+          "can_comment": true
+        }
+      },
+      "message": "You can now gain access to 36 clubs nationwide with the all-new Dual Access. Upgrade now to receive our limited edition dual branded cooling towel (while stocks last). Click for more information: https://www.fitnessfirst.com.my/dual.",
+      "id": "136798519691139_1569578503079793"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-31T09:05:47+0000",
+            "message": "Have a look. A Trainer on the mobile phone during a Pt session. He was doing this for over 10 mins!!! Is this what we pay for? Ask yourselves? Where is the service?? The poor lady paid for his knowledge n time n this is just horrible to watch.",
+            "id": "1567466479957662_1567801823257461"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Wishing all a blessed Thaipusam.",
+      "id": "136798519691139_1567466479957662"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-02-02T05:01:38+0000",
+            "message": "during the relocate period can we go other outlets or any celebrity fitness outlet?",
+            "id": "1562845223753121_1569517759752534"
+          },
+          {
+            "created_time": "2018-01-26T17:30:39+0000",
+            "message": "i was told that there will b only one multipurpose workout room in the new premise which also indicates there will b a significant cut down in number of classes.  i joined FF ioi  mall  last year for its many numbers of yoga classes being held every evenings. i hope these classes will not b compromised.",
+            "id": "1562845223753121_1563279823709661"
+          },
+          {
+            "created_time": "2018-01-26T09:12:49+0000",
+            "message": "Today ada zumba ?",
+            "id": "1562845223753121_1562924570411853"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Relocating to Level 2 (New Wing) to give you a better workout experience. Please note that Fitness First IOI Mall (Puchong) will be closed starting Sunday, 28 January 2018. We look forward in welcoming you back on 24 February 2018 to your new workout space.  See you soon!",
+      "id": "136798519691139_1562845223753121"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "All smiles, no frowns at Family First day.\nMissed our Family First day at The Gardens Mall? Stay tuned for the next session!",
+      "id": "136798519691139_1560090317361945"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "A high-energy boxing class by pro coaches who will get you throwing punches to an upbeat playlists. Box your way to a leaner body with BOOM. Available at Fitness First Platinum 1 Mont' Kiara, starting 6 February 2018.",
+      "id": "136798519691139_1556224711081839"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-19T08:33:07+0000",
+            "message": "Mousey Fibs r u teaching? 😀",
+            "id": "1556112724426371_1556234511080859"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Introducing BOOM, the latest programme at your 1 Mont' Kiara club. It is a 45-minute high intensity, total-body boxing experience, designed for you to train like a boxer. Available starting 6 February 2018! #BOXSERIES #FitnessFirstMalaysia",
+      "id": "136798519691139_1556113574426286"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "The most precious gift you can give your loved ones is your time and attention. \n\nMake your New Year more worthwhile and meaningful when you spend more time bonding with your loved ones. Join our Family First Day this  21 January 2018 (Sunday), 4pm at Fitness First Platinum The Gardens Mall. Register now at http://bit.ly/familyfirstprogramme to book your slot.\n\nTerms and conditions apply:\n*This event is open to members and non-members. \n*One parent is allowed to bring one child aged 4-10 years old only.\n*Please come dressed in your workout attire.\n*Only 40 pax allowed.",
+      "id": "136798519691139_1554399321264378"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "A little rain won't stop these beautiful yogis from channeling their zen. Missed our Sunrise Flow Yoga at The Gardens Mall? Join us next month. Stay tuned for more info.",
+      "id": "136798519691139_1553571301347180"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Uncage your soul by channeling your inner zen.\n\nSUNRISE FLOW YOGA\nDate: 13 January 2018 (Saturday) | Time: 7.15am - 8.15am\nVenue: The Gardens Mall, Level 6 rooftop\nInstructor: Liang\n\n*Limited to 40 people.\n*Open for all members and non-members.",
+      "id": "136798519691139_1547201828650794"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "It is always more fun to get fit with a friend. Refer a friend to join us this January and get 50% off your February 2018 membership fee. \n\nThis promo ends on 31 January 2018. Terms and conditions apply.",
+      "id": "136798519691139_1547181635319480"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "As informed by the management of The Gardens Mall, there will be a water disruption from 9-10 January 2018, 10pm - 12pm due to upgrading works.\n\nMembers can visit other clubs to avoid any interruption to your workout. We apologise for the inconvenience caused.",
+      "id": "136798519691139_1546513452052965"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-06T07:53:39+0000",
+            "message": "Superb!",
+            "id": "1543320162372294_1544269198944057"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Find happiness on the dance floor with electrifying,cool tunes in the new Sh’bam release from 8 – 14 January 2019. Show us your best dance moves and stand a chance to win an Under Armour cash voucher worth RM50.\n\nCheck out our timetable for more details: http://bit.ly/shbamdancetour",
+      "id": "136798519691139_1543320162372294"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-07T03:27:44+0000",
+            "message": "Newbie instructor? 😂",
+            "id": "1543312452373065_1545180425519601"
+          },
+          {
+            "created_time": "2018-01-05T13:41:26+0000",
+            "message": "SharulNidzam ape agi..kasi try la 😊",
+            "id": "1543312452373065_1543468215690822"
+          },
+          {
+            "created_time": "2018-01-06T23:56:37+0000",
+            "message": "Bodyjam pun nak juga Dance Tour 😜",
+            "id": "1543312452373065_1545038942200416"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "It will have you grooving from the get go. Experience the new Sh'bam workout from 8-14 January 2018 and stand a chance to win an Under Armour cash voucher worth RM50. \n\nCheck out our timetable for more details: http://bit.ly/shbamdancetour",
+      "id": "136798519691139_1543312452373065"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-05T04:02:33+0000",
+            "from": {
+              "name": "Fitness First Malaysia",
+              "id": "136798519691139"
+            },
+            "message": "Hi Kenneth & KR, thank you for your messages. We shall take your feedback onboard and further improve in communicating these messages when they arise in the future. We apologise for any inconvenience caused to your workout routine.",
+            "id": "1542279569143020_1543087045728939"
+          },
+          {
+            "created_time": "2018-01-04T23:37:58+0000",
+            "message": "I thought I was the only one that came without notice but unfortunately there is more 20 visitor was not inform from 7.30am, hopefully fitness first can give a notice via email,  SMS,  Msg and not only facebook",
+            "id": "1542279569143020_1542909989079978"
+          },
+          {
+            "created_time": "2018-01-04T13:00:12+0000",
+            "message": "So what’s the compensation to members in this instance or does the club assume it’s ok?",
+            "id": "1542279569143020_1542381502466160"
+          },
+          {
+            "created_time": "2018-01-05T04:04:52+0000",
+            "message": "Fitness first will never improve its services. It will never learn from the fate of its competitors. There are crossfit clubs and smaller gyms taking over now. I am glad I did not sign up yesterday. The service is worse now. All promises on social media by Fitness first is lip service!",
+            "id": "1542279569143020_1543089112395399"
+          },
+          {
+            "created_time": "2018-01-04T13:01:15+0000",
+            "message": "Happened before too!",
+            "id": "1542279569143020_1542382232466087"
+          },
+          {
+            "created_time": "2018-01-04T23:18:45+0000",
+            "message": "",
+            "id": "1542279569143020_1542897402414570"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 6,
+          "can_comment": true
+        }
+      },
+      "message": "[UPDATE] - 5 January 2018, 5:30PM\n\nSetia City Mall will be carrying out another emergency maintenance works tomorrow, 6 January 2018 from 3.00am - 8.00am.\n\nPlease feel free to visit our other clubs for your workout. We apologise for the inconvenience caused.\n\n-------------\n\nAs informed by the management of Setia City Mall, there will be a scheduled power interruption tomorrow, 5 January 2018 from 3.00am - 8.00am. This is due to emergency maintenance purposes.\n\nMembers can visit other clubs to avoid any interruption to your workout. We apologise for the inconvenience caused.",
+      "id": "136798519691139_1542279569143020"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Let the rhythm move your body. Sh'bam, an insanely addictive dance workout featuring simple, fun moves, party playlist and a chance to shake.\n\nShow us your best dance moves and stand a chance to win Under Armour cash voucher worth RM50. \n\nDate: 8-14 January 2018\nVenue: Selected Fitness First clubs\n\nOpen to public.",
+      "id": "136798519691139_930522013764149"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "No one can go back and make a brand new start, however anyone can start from now and make a brand new ending. Happy New Year from us to you.",
+      "id": "136798519691139_1537954286242215"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Trade your time on the Octane Elliptical & PowerBlock for a little metabolic conditioning this weekend! \n\nDate: 30 - 31 December  2017\nOpen to members from all Fitness First clubs.\nNon-members are welcome to join.",
+      "id": "136798519691139_1866277227016724"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-12-28T00:14:24+0000",
+            "message": "FF SCM, i think notice like this should be send out via SMS / Email rather than just through a FB page announcement. For those who don't follow this FB page and still ended turning up to the gym from 6.30am onwards will be disappointed and very much confused.\nTqvm",
+            "id": "1533747043329606_1535160079854969"
+          },
+          {
+            "created_time": "2017-12-27T05:17:03+0000",
+            "message": "FF SCM will be closed on these date?",
+            "id": "1533747043329606_1534482649922712"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nAs informed by the management of Setia City Mall, there will be a planned power shutdown on 27 – 29 December 2017 due to maintenance purposes by Tenaga Nasional Berhad (TNB). The planned power shutdown is scheduled to be at the following times: \n\n27 December 2017: 3.00am – 9.00am\n28 December 2017: 3.00am – 9.00am\n29 December 2017: 3.00am – 7.00am\n\nApologies for any inconvenience caused.",
+      "id": "136798519691139_1533747043329606"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-12-25T07:26:23+0000",
+            "message": "Horrible experience with this club. They will take your money without your authorization. I sustained a muscle/tendon injury during one of my sessions there so had to stop and freeze my account with a doctor's letter. However after 6 months they reactivated my account without first informing me or asking if I was okay to return. I did not check my credit card bill for a few months but when I did I realized they had charged me for 6 months already. Cut a long story short. I tried to cancel my membership (I was not on contract anymore) because my shoulder was still stiff and there was no way I could return to my normal classes. Tried to cancel my membership and ask for a refund on the 6 months fees that they tried to charge. It was impossible for them to agree. I have been fighting to get my money back and for them to waive the freezing fees to no avail.",
+            "id": "1530864436951200_1532812913423019"
+          },
+          {
+            "created_time": "2017-12-25T05:24:47+0000",
+            "message": "Hi, Are u guys open today ie Christmas day? Esp the one at Empire Subang?",
+            "id": "1530864436951200_1532737236763920"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "May the season bring you and your loved ones lots of joy and happiness. Have a very Merry FITMAS from us to you.",
+      "id": "136798519691139_1530864436951200"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-12-22T04:10:17+0000",
+            "message": "I pick up some money from the sofa (cafe area) at 11:45am today, I past it to the reception. Anyone???  (Some money with a black colour clip).",
+            "id": "1526485387389105_1529983550372622"
+          },
+          {
+            "created_time": "2017-12-22T04:15:45+0000",
+            "message": "",
+            "id": "1526485387389105_1529986370372340"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NAZDZD",
+            "after": "MwZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 4,
+          "can_comment": true
+        }
+      },
+      "message": "Box the beat with BOOM. \nExperience our new programme, launching soon in Fitness First Platinum 1 Mont' Kiara.",
+      "id": "136798519691139_1526485387389105"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "When you own your breath, nobody can steal your peace. #sunriseyoga",
+      "id": "136798519691139_1524592154245095"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "'Tis is the season to be sparkle. Come and join us in our special Christmas class this Saturday at Fitness First Platinum Avenue K.",
+      "id": "136798519691139_151877195576174"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-12-11T02:02:30+0000",
+            "message": "First time at FF Paradigm Mall, now at Aeon Bukit Tinggi. \n\nYou guys ever wash your towels?? It’s damn irritating with all these cotton covering all over your hair and body!! \n\nIs washing towels part of FF SOP???",
+            "id": "1515842531786724_1519636011407376"
+          },
+          {
+            "created_time": "2017-12-10T02:48:42+0000",
+            "message": "What happened? \nCant check d online schedule for today \nIt starts from Mon",
+            "id": "1515842531786724_1518720494832261"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MgZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Experience a sweet flow with fresh air on the rooftop of The Gardens Mall.\n\nSUNRISE FLOW YOGA\nDate & Time: 16 December 2017 | 7.15am - 8.15am\nVenue: The Gardens Mall, level 6 rooftop\nInstructor: Riyo\n\n*Limited to 30 people. \n*Open for all members and non-members",
+      "id": "136798519691139_1515842531786724"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-12-05T03:25:10+0000",
+            "message": "Wow bojii bro",
+            "id": "1513883755315935_1513900961980881"
+          },
+          {
+            "created_time": "2017-12-05T09:44:22+0000",
+            "message": "So much food here!",
+            "id": "1513883755315935_1514123938625250"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MgZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "This week we celebrated our 13 year anniversary! Thank you to our awesome members who have been a part of this amazing journey.",
+      "id": "136798519691139_1513883755315935"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-29T14:34:44+0000",
+            "message": "Just planned to go there to workout until 1 am because tgif is holiday :( TT",
+            "id": "1508486542522323_1508518685852442"
+          },
+          {
+            "created_time": "2017-12-07T12:34:39+0000",
+            "message": "Bos macam mana nk sadokan badn.. Ade mknn tmbahan mksudnye pil ke atau lain2",
+            "id": "1508486542522323_1516213308416313"
+          },
+          {
+            "created_time": "2017-11-30T03:52:14+0000",
+            "message": "Philip De CattoGuy",
+            "id": "1508486542522323_1509134042457573"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NAZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 4,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nPlease be advised that, due to Empire Shopping Gallery’s power shutdown, the gym will be closed at 10.30pm tomorrow. \n\nApologies for any inconvenience caused.",
+      "id": "136798519691139_1508486542522323"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-27T07:20:57+0000",
+            "message": "Wow bojio bro",
+            "id": "1505995142771463_1506094762761501"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Thank you for making our 12th anniversary so special! #fitnessfirstcherasleisuremall",
+      "id": "136798519691139_1505995142771463"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Come and celebrate with us through a line of top experiences and activities. Stand a chance to win a Signature Facial and Signature Facial Lift Massage from Celmonze The Signature worth RM388.",
+      "id": "136798519691139_1997737863835336"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-19T11:43:48+0000",
+            "message": "Where are the rest of the pictures?😏",
+            "id": "1498874643483513_1498942026810108"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "A Spartan pushes their mind and body to their limits.",
+      "id": "136798519691139_1498874643483513"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Let the ANIMAL FLOW in you.",
+      "id": "136798519691139_1497784420259202"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "It combines SPEED, STAMINA, AGILITY and POWER training to transform your body and enable peak performance.\n\nSurge special class by Jason Soon, Mikey and Young at Fitness First Platinum 1 Mont’ Kiara.",
+      "id": "136798519691139_1497762170261427"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-18T03:03:04+0000",
+            "message": "Namaste 🕉",
+            "id": "1497667670270877_1497690400268604"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "The beauty of an early morning. #fitnessfirstmalaysia",
+      "id": "136798519691139_1497667670270877"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-16T05:30:24+0000",
+            "from": {
+              "name": "Health Trifecta Diet Exercise Healing",
+              "id": "1501305776643577"
+            },
+            "message": "More posts on [health] ok? like if you agree",
+            "id": "1494107903960187_1495951690442475"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "In order to carry out essential repairs, Fitness First Platinum Empire Subang swimming pool will be closed on 20 November 2017 (whole day).\n\nApologies for any inconvenience caused.",
+      "id": "136798519691139_1494107903960187"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "谢谢 988 的 DJs 今天加入我们的 SURGE workout，它不但只爆发你潜在体能，速度及提升身体的灵活度，希望你们会喜欢。",
+      "id": "136798519691139_1494160400621604"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-14T01:12:23+0000",
+            "message": "Jessica Tan u can join this torture ur self 🙂",
+            "id": "1493223260715318_1493915100646134"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "The renovation of the Freestyle Area in Fitness First Platinum 1 Mont' Kiara is now complete.\n\nJoin us in a 60-minute back-to-back\nSURGE class this 18 November 2017 to try out the new space.\n\nSURGE - FITNESS FIRST SIGNATURE PROGRAMME\nSession 1: 10.00am - 11.00am | Session 2: 11.15am - 12.15pm\nVenue: Freestyle Area, Fitness First Platinum 1 Mont' Kiara\nInstructors: Jason Soon, Mikey, Young\n\n*Limited to 24 people.\n*Pre-registration is required as spaces are limited.",
+      "id": "136798519691139_1493223260715318"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-10T16:33:09+0000",
+            "message": "Done ✌🏻",
+            "id": "1490485810989063_1490853954285582"
+          },
+          {
+            "created_time": "2017-11-15T13:00:48+0000",
+            "message": "",
+            "id": "1490485810989063_1495264507177860"
+          },
+          {
+            "created_time": "2017-11-15T02:32:02+0000",
+            "message": "Good u",
+            "id": "1490485810989063_1494914220546222"
+          },
+          {
+            "created_time": "2017-11-15T04:16:53+0000",
+            "message": "Thanks",
+            "id": "1490485810989063_1494980317206279"
+          },
+          {
+            "created_time": "2017-11-12T21:00:10+0000",
+            "from": {
+              "name": "Gammarayfitness",
+              "id": "447334885432304"
+            },
+            "message": "Thanks  big Strength fan here",
+            "id": "1490485810989063_1492886037415707"
+          },
+          {
+            "created_time": "2017-11-15T08:43:02+0000",
+            "message": "y",
+            "id": "1490485810989063_1495108783860099"
+          },
+          {
+            "created_time": "2017-11-11T21:36:52+0000",
+            "message": "Adzre Are",
+            "id": "1490485810989063_1492001210837523"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "OAZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 9,
+          "can_comment": true
+        }
+      },
+      "message": "Clean water is fundamental to our survival and yet 2.1 billion people do not have access to it. Join the global #WorkoutForWater movement, in-conjunction with Les Mills and UNICEF, to raise enough funds to bring clean, safe water to thousands of people. \n \nIt costs $414 for each pump and your contribution can help protect the entire community from deadly diseases, help parents grow crops and allow children to go to school. Donate a minimum of RM50 and above and receive a  Fit in The City T-Shirt*. \n \n*You will need to send your official donation receipt to marketing@fitnessfirst.com.my as proof. T-Shirt is subjected to availability and on a first-come, first-served basis. No exchange of T-Shirt size will be entertained. Only one T-Shirt per donation permitted. Campaign ends 18 November 2017.\n \nJoin us in donating now at https://movetheworld.live/my/17-1949 #everyamountcounts #celebrityfitnessmalaysia #fitnessfirstmalaysia",
+      "id": "136798519691139_1490485810989063"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-09T07:03:41+0000",
+            "message": "What happened to the booking? I cant book a space! Thanks",
+            "id": "1489457674425210_1489541657750145"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Rise and Shine! Awaken your body and mind with Sunrise Flow Yoga. Build strength, flexibility and set up a positive tone for the rest of your day.\n\nSUNRISE FLOW YOGA\nDate & Time: 18 November 2017 | 7.15am - 8.45am\nVenue: The Gardens Mall, level 6 rooftop\nInstructor: Chris Wong and Sop Fan, Fitness First Flow Yoga instructors\n\n*Limited to 30 people. \n*Open for all members and non-members",
+      "id": "136798519691139_1489457674425210"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "3 years and going strong. We have to thank for this amazing journey. As a token of our appreciation, come and join us for a celebration of our club featuring a line of top experiences and fun activities.\n\n*Open to all members and non-members",
+      "id": "136798519691139_301273223613492"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-07T03:24:18+0000",
+            "message": "Any promo now and what is the mthly fees",
+            "id": "1487630221274622_1487674584603519"
+          },
+          {
+            "created_time": "2017-11-07T02:12:04+0000",
+            "message": "I thought there would be an area for FIGHT equipped with bags?",
+            "id": "1487630221274622_1487636331274011"
+          },
+          {
+            "created_time": "2017-11-07T04:10:59+0000",
+            "message": "There is.. you need to see yourself",
+            "id": "1487630221274622_1487698777934433"
+          },
+          {
+            "created_time": "2017-11-07T08:14:36+0000",
+            "message": "Wah",
+            "id": "1487630221274622_1487815931256051"
+          },
+          {
+            "created_time": "2017-11-07T04:19:07+0000",
+            "message": "Lim Hong Aik",
+            "id": "1487630221274622_1487702477934063"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 6,
+          "can_comment": true
+        }
+      },
+      "message": "Extended space for a more intense workout. Newly open in Fitness First Platinum 1 Mont' Kiara.",
+      "id": "136798519691139_1487630221274622"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-05T15:03:54+0000",
+            "message": "Andrew Story is you and Penny Pang.",
+            "id": "1485253118178999_1486387231398921"
+          },
+          {
+            "created_time": "2017-11-05T15:15:47+0000",
+            "message": "Awesome",
+            "id": "1485253118178999_1486395301398114"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "A new release of energy #BodyAttack",
+      "id": "136798519691139_1485253118178999"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "100% fitness dedication. #FiTC2017",
+      "id": "136798519691139_1485250961512548"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "A total body workout in 30 mins. Why not? #hardcore #fitc2017",
+      "id": "136798519691139_1485225421515102"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-12-08T01:45:36+0000",
+            "message": "Looks like a good exercise for people has knees pain",
+            "id": "1485199591517685_1516767008360943"
+          },
+          {
+            "created_time": "2017-11-16T02:06:30+0000",
+            "message": "Miss it.....but im not sure do i still have power to do it haha",
+            "id": "1485199591517685_1495845157119795"
+          },
+          {
+            "created_time": "2017-11-07T14:07:04+0000",
+            "message": "Katne tu lokasi blh join ke",
+            "id": "1485199591517685_1488040304566947"
+          },
+          {
+            "created_time": "2017-11-04T16:08:37+0000",
+            "message": "The best!!",
+            "id": "1485199591517685_1485565674814410"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 7,
+          "can_comment": true
+        }
+      },
+      "message": "Happiness is jumping on a trampoline! #saltar #celebrityfitnessmalaysia #fitc2017",
+      "id": "136798519691139_1485199591517685"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "The ultimate gain. #FiTC2017 #fitnessfirstmalaysia",
+      "id": "136798519691139_1485180944852883"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-06T03:08:43+0000",
+            "message": "Dear Sir / Madam\n\nFirstly, I would like to thank Fitness First for organising the event “Fit In The City” on 4 Nov 2017, the very first event that I chanced upon and took part with my other group exercise members from Fitness First at The Gardens Mall.\n\nIt was definitely challenging as there were 11 thrilling obstacles for us to go through as a team.\nI am happy to share that our team completed the obstacle challenge with each other’s support and we did enjoy ourselves.\n\nThough it was meant to be a test of our strength, endurance and cardio, I was very concerned about several safety issues as I felt that the safety measures at a number of obstacle challenges were not sufficient and not well thought out, specifically:\n\nMost of the obstacles challenges were not set up properly, as some of the safety mattresses/ cushions were not firmly installed and were scattered around.  Some of these did not even have any mattress/cushion even though the risk of injury was obvious. \n\nEach of the obstacle challenges should have been more closely supervised by the training staff. As safety measures were lacking, a fall could potentially result in a serious head injury. Some of them were not very alert or attentive even though the risk of head injuries was imminent. Our team had to cover the hard floor and move the cushion around as there wasn’t sufficient cushioning.\n\nThere was no medical assistance given to my team member who injured herself.  \n\nThe last obstacle was not secured and the balance beam was very shaky for anyone to walk on. This was the case for the last obstacle challenge - the beam on the left was obviously not set up in a correct manner.\n\nMay I know who is the person in charge to write to regarding this? Can I have the email address as I couldn't find it on your website.\n\nThank you. \n\nYours truly\nDylan Ng\nMembership No. 80010658",
+            "id": "1485096838194627_1486817921355852"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "The pain you feel today will be your strength tomorrow. #fitc2017",
+      "id": "136798519691139_1485096838194627"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Some fail, some succeed. Just know that your friends will be there to push you forward. Click to view some of the photos from Fit in The City. This is just the beginning before you go all out in an 8-hour back-to-back group exercise party. #FiTC2017",
+      "id": "136798519691139_1485030131534631"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Start your morning with a positive mind, knowing that you are going to smash all 11 obstacle challenges. Are you ready? #fitc2017 #fitnessfirstmalaysia",
+      "id": "136798519691139_1484978914873086"
+    },
+        {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-04T02:21:12+0000",
+            "message": "Yoon-Pin Chen",
+            "id": "1484550758249235_1485062434864734"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Due to unforeseen circumstances, Fitness First Platinum Empire Subang swimming pool will be closed from 3-11 November 2017. \n\nApologies for any inconvenience caused.",
+      "id": "136798519691139_1484550758249235"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Are you ready for Fit in The City? To ensure that you have a great first experience, here are some things you need to take note:\n\n- You are required to bring/wear your wristband. You will not be permitted to enter the event without a wristband. Your wristband is included in your Entry Pack. \n- If you haven't collected your Entry Pack, you can collected it on event day at our information counter. You will need to present your official receipt or complimentary ticket and IC as proof. \n- Please fill up your indemnity form and bring it along with you. \n- Please bring along an extra set of workout attire, sports towel and drinking water. \n- Please bring along sufficient cash as there will be tasty treats by Figure Fuel, Kind Kones and Juicee.\n\nAll the information you need are in our event guide: http://bit.ly/FITCeventguide",
+      "id": "136798519691139_1484372571600387"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Why fuss on driving when you can GRAB to Fit in The City?\nUse the promo code \"GRABFITC\" to get RM8 off your ride to from KWC StarXpo Centre this 4 November 2017. This promo is valid for the first 200 riders. #FiTC2017",
+      "id": "136798519691139_1483524628351848"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-02T09:08:24+0000",
+            "message": "Same like CF...",
+            "id": "1483381381699506_1483526765018301"
+          },
+          {
+            "created_time": "2017-11-02T07:16:33+0000",
+            "message": "is there any free trail?",
+            "id": "1483381381699506_1483471135023864"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nPlease be informed that the following classes will not be held in club and will be taking place at Fit in The City on 4 November 2017.\n\nJoin your favourite instructors and fellow members on the event day at KWC - StarXpo Center, Level 13A.\n\nTickets are still available at 30% until 3 November 2017.\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club.\n\nWe look forward to seeing you there! #FiTC2017\n\nNote: There will be no changes to classes held in Mind & Body and Cycling studio.",
+      "id": "136798519691139_1483381381699506"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MgZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Still don't have your Entry Pack for Fit in The City?\nFret not. You can collect it at the information counter on the event day from 7am - 6pm. \n\nPlease arrive at least 1 hour before your flag-off time or class start time. You will need to bring along your official receipt or complimentary ticket and IC as proof. See you there! #FiTC2017",
+      "id": "136798519691139_1482832755087702"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-01T00:02:52+0000",
+            "message": "When I purchased the ticket I was told by your staff that I will be able to collect the participants kit at the club @SCM itself before the event. I am surprised now that the collection date has passed and there was not even an email to inform me on the collection date. Please solve my problem for me and deliver what your staff have informed me.",
+            "id": "1481772455193732_1482393448464966"
+          },
+          {
+            "created_time": "2017-11-01T00:11:45+0000",
+            "message": "Even yesterday I was told by your staff that the kit has not arrived at SCM which means they also have no idea",
+            "id": "1481772455193732_1482398151797829"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "NAZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "Are you geared for Fit in The City? Only 4 days away to the ultimate fitness workout experience.\n\nDownload the official event guide here: http://bit.ly/FITCeventguide",
+      "id": "136798519691139_1481772455193732"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-31T08:34:50+0000",
+            "message": "Full means what ???",
+            "id": "1481677418536569_1481721545198823"
+          },
+          {
+            "created_time": "2017-10-31T10:13:54+0000",
+            "message": "Fully booked?",
+            "id": "1481677418536569_1481782171859427"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MwZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "LES MILLS GRIT AND CELEBRITY SALTAR classes are officially FULL. There are still spaces for other classes. Don't miss out on this great event. Hurry, head over to www.heyjom.com/fitinthecity or at your nearest Celebrity Fitness or Fitness First clubs to purchase it at 30% off normal ticket price. #FiTC2017",
+      "id": "136798519691139_1481677418536569"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-27T15:14:08+0000",
+            "message": "Yes collected :) see you there later :)",
+            "id": "1478091408895170_1478449962192648"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MgZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Have you collected your Fit in The City entry pack? We will be at Fitness First Platinum The Curve today till 9pm. #fitnessfirstmalaysia #FiTC2017",
+      "id": "136798519691139_1478091408895170"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-11-02T15:57:23+0000",
+            "message": "Cant wait!",
+            "id": "1476489902388654_1483823658321945"
+          },
+          {
+            "created_time": "2017-10-26T12:05:34+0000",
+            "message": "Emma Anderson!!! This is sick!",
+            "id": "1476489902388654_1477420092295635"
+          },
+          {
+            "created_time": "2017-11-02T11:14:50+0000",
+            "message": "Wow i looking forward to it!!!",
+            "id": "1476489902388654_1483604208343890"
+          },
+          {
+            "created_time": "2017-10-30T14:44:34+0000",
+            "message": "John Chang try getting hit by him... train kissing punch",
+            "id": "1476489902388654_1481100695260908"
+          },
+          {
+            "created_time": "2017-10-25T16:19:07+0000",
+            "message": "Definitely joining",
+            "id": "1476489902388654_1476764122361232"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MTAZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 10,
+          "can_comment": true
+        }
+      },
+      "message": "WE ARE rising by defying the odds. \n\nBOOM. HOOK. SLAM.\nComing soon to Fitness First Platinum 1 Mont' Kiara. #FightTheOdds",
+      "id": "136798519691139_1476489902388654"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Fit in The City Zumba session just got hotter with our NEW guest star appearance, David Velez, Zumba Education Specialist (ZES). Come and join the movement together with Joelle and Sunny, Fitness First and Celebrity Fitness GX Instructors as they are set to rock the stage on 4 November 2017 at KWC - Starxpo Centre (Level 13A)!\n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1475290752508569"
+    },
+    {
+      "comments": {
+        "data": [],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "As informed by the mall management, our club is currently experiencing a disruption in water service.\n\nWe apologise for the inconvenience caused, and in the interim, should you prefer, please feel free to use any other clubs in the Fitness First network. We will keep you posted in the meantime.",
+      "id": "136798519691139_1476241369080174"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Be sure to collect your Entry Pack for Fit in The City. \n\nDate: 27 October 2017, Friday\nTime: 10am – 9pm                                                                                 \nVenue: Fitness First Platinum The Curve (for Fitness First members) | Celebrity Fitness Mid Valley (for Celebrity Fitness members)\n\nWhat do you need to bring?\n- Please bring along your official receipt OR complimentary ticket upon collection. \n- For non-members, you may collect at either Fitness First Platinum The Curve OR Celebrity Fitness Mid Valley.  \n- Please note that you may nominate a representative to collect on your behalf. They would need to present the official receipt OR complimentary ticket upon collection and sign an acknowledgement form. \n- All participants MUST collect their event pack within the given timeframe. No reservation/special delivery request will be entertained.",
+      "id": "136798519691139_1475320839172227"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Dance lovers, get ready to shake to shape with Henry Cedeno, International Zumba Instructor and Presenter Zumba Jammer. Happening tomorrow at Fitness First Platinum Avenue K!\n\nZUMBA SPECIAL CLASS\nDate: 25 October 2017 (Wednesday)\nTime: 4.45pm – 5.45pm\nVenue: GX Studio, Fitness First Platinum Avenue K",
+      "id": "136798519691139_1475427065828271"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Congratulations to the 8 winners of X-Blast Challenge. We hope you enjoy your dahmakan Prime Package meal worth RM199!\n\n- Chee Hong Wang \n- Harvard Wong\n- Hoi Yen Kow\n- Jamie\n- Jesie Dieu Pei Bing\n- Lee Shu Xian \n- Melissa\n- Yew Yen Huei\n\nA big thank you to everyone who participated!",
+      "id": "136798519691139_1475269515844026"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-24T02:01:04+0000",
+            "message": "Hi Kong Sei Key 👋🏽",
+            "id": "1474558382581806_1475257605845217"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Go all in, go all out with the NEW RELEASE of Grit Strength by Key, Fitness First GX Instructor next week, 4 November 2017 at Fit in The City!\n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1474558382581806"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Thank you to everyone who attended our 75 minutes of BodyBalance. Your energy and passion helped make the class awesome.\n\nCongratulations to all of the winners who won the Celmonze The Signature worth up to RM168!",
+      "id": "136798519691139_1474521205918857"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "11 obstacle challenges.\n8-hour back-to-back group exercise classes featuring our superstar instructors. \n\nAre you ready for full day of exhilarating workout experience?\n\nParticipants can obtain their ticket at your nearest Celebrity Fitness/Fitness First clubs or online at http://www.heyjom.com/events/details/422/fit-in-the-city. You can still enjoy 30% off ticket price. \n\nThis event is jointly organised by Celebrity Fitness and Fitness First.",
+      "id": "136798519691139_298327004001297"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Sh'bam - fresh moves and pumping beats. Experience that euphoric feeling of smashing a new routine with Jaden Ee, Fitness First GX Instructor on November 4, 2017 at Fit in The City.\n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1469285459775765"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Are you brave enough to take on the challenge? 60 minutes is all you need in this high intensity interval training (HIIT) programme that will get you in shape and burn calories!\n\nHARDCORE CHALLENGE LAUNCH \nDate: 23-28 October 2017\nVenue: All Fitness First clubs\n\nCheck out our timetable for more details:http://bit.ly/hardcorechallengelaunch",
+      "id": "136798519691139_1471197612917883"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "HARDCORE CHALLENGE LAUNCH (60 MINUTES)",
+      "id": "136798519691139_1469438699760441"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-20T00:13:30+0000",
+            "message": "Amazing isometric ice skater #aiis",
+            "id": "1469283433109301_1471738062863838"
+          },
+          {
+            "created_time": "2017-10-19T11:59:30+0000",
+            "message": "Can’t wait this event 😂😂see u all superstar 🤗🤗",
+            "id": "1469283433109301_1471263819577929"
+          },
+          {
+            "created_time": "2017-10-19T09:32:18+0000",
+            "message": "",
+            "id": "1469283433109301_1471174459586865"
+          },
+          {
+            "created_time": "2017-10-19T14:59:54+0000",
+            "message": "Hello Asia Group Fitness Manager.",
+            "id": "1469283433109301_1471397392897905"
+          },
+          {
+            "created_time": "2017-10-19T15:18:54+0000",
+            "message": "#myidol #yolo",
+            "id": "1469283433109301_1471410889563222"
+          },
+          {
+            "created_time": "2017-10-19T15:54:36+0000",
+            "message": "",
+            "id": "1469283433109301_1471432776227700"
+          },
+          {
+            "created_time": "2017-10-20T03:15:01+0000",
+            "message": "YS Teoh my idol",
+            "id": "1469283433109301_1471848519519459"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 7,
+          "can_comment": true
+        }
+      },
+      "message": "Forget the treadmill - we have discovered the ultimate way to maximise your cardio workout. Step up the fun with BodyAttack by Teoh, Fitness First GX Instructor on 4 November 2017 at Fit in The City.\n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1469283433109301"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Want more bang for your buck?\nGet your hands on our exclusive merchandise when you purchase Fit in The City tickets. \n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1466043586766619"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Get your groove on with House, Hip Hop and Contemporary routines by Ken Mun, Fitness First GX Instructor on 4 November 2017 at Fit in The City!\n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1469282879776023"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "May the festival of lights illuminate your way to a fitter you. To add cheer to your Deepavali celebration, we are running a special promotion* for Fit in The City tickets. Buy 10 tickets and get 2 FREE at 30% off.\n\n*Promotion is only valid on 18 October 2017. \n*This promotion is only valid for purchases at Club's Front of House (FOH).",
+      "id": "136798519691139_1469318703105774"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Get one STEP closer to your ultimate fitness goal with Alan Yee, Fitness First GX Instructor as he leads the new release of BodyAttack this 4 November 2017 at Fit in The City.\n\nBook your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1469273823110262"
+    },
+        {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-16T15:04:04+0000",
+            "message": "Good job, teacher Fred",
+            "id": "1468714016499576_1468903866480591"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "The grand finale of Grit Challenge by Fit in The City concluded last weekend. Thank you everyone who participated and we would like to congratulate our top 6 winners:\n\n- Gwen Chai\n- Daniel Maxey\n- Frederic Lorenzen\n- Jaclyn Ching\n- Marina Kamaludin\n- Nickson Yong \n\nTime to prepare for #FiTC2017. See you guys on November 4, 2017!",
+      "id": "136798519691139_1468714293166215"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Introducing our partners for Fit in The City -  AIA Malaysia, Davidoff Café, Gatorade, Leanosnacks, Les Mills, Mammam, Reebok, SHAPE Malaysia.\n\nExpect an exhilarating workout experience this 4 November 2017 with 11 challenging obstacles and 8 hour back-to-back group exercise party. Book your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1465220193515625"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-14T09:52:53+0000",
+            "message": "The first 2 ladies in black are winners!!!!",
+            "id": "1466989143338730_1467018080002503"
+          },
+          {
+            "created_time": "2017-10-14T09:30:37+0000",
+            "message": "At whre",
+            "id": "1466989143338730_1467006813336963"
+          },
+          {
+            "created_time": "2017-10-14T10:33:30+0000",
+            "message": "Puusy",
+            "id": "1466989143338730_1467039740000337"
+          },
+          {
+            "created_time": "2017-10-14T10:51:45+0000",
+            "message": "😍😍😍😍 @gwen",
+            "id": "1466989143338730_1467049763332668"
+          },
+          {
+            "created_time": "2017-10-14T14:17:01+0000",
+            "message": "Bestnyer",
+            "id": "1466989143338730_1467200489984262"
+          },
+          {
+            "created_time": "2017-10-15T04:11:46+0000",
+            "message": "The First Lady at the left with Poly’s tail (3/4 pants) should deserve as the winner 💪🏻💪🏻",
+            "id": "1466989143338730_1467704583267186"
+          },
+          {
+            "created_time": "2017-10-15T06:44:01+0000",
+            "message": "Grit strength",
+            "id": "1466989143338730_1467784719925839"
+          },
+          {
+            "created_time": "2017-10-14T15:53:27+0000",
+            "message": "Key",
+            "id": "1466989143338730_1467276349976676"
+          },
+          {
+            "created_time": "2017-10-14T09:19:45+0000",
+            "message": "Gwyneth Ys 加油 加油",
+            "id": "1466989143338730_1467001026670875"
+          },
+          {
+            "created_time": "2017-10-14T09:07:45+0000",
+            "message": "Gwyneth Ys (Gwenn) 😍😍",
+            "id": "1466989143338730_1466994436671534"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MTEZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 11,
+          "can_comment": true
+        }
+      },
+      "message": "Grit Challenge starts now. #FiTC2017",
+      "id": "136798519691139_1466989143338730"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-13T10:32:06+0000",
+            "message": "Jommm korgggg !!! Effa Hazali Eva Hazali Syima Hassim Anis Hazali 💪🏼💦💦",
+            "id": "1466127976758180_1466136156757362"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "It's Breast Cancer Awareness month!\n\nJoin us on 15 October 2017 at Centre Court, Paradigm Mall for some BodyCombat and BodyJam workouts in your pink attire* to show your support to the fighters! See you in PINK!\n\nTime: 12.45pm - 2.00pm (75-minute)\nBodyCombat by Lorraine, Michelle Seet, Peggy, Renee\n\nTime: 2.15pm - 3.30pm (75-minute)\nBodyJam by Eugene Wong, Izz, Jason Low\n\n*These sessions are open to all members & non-members.\n*Best dress attendees will stand a chance to win tickets to Fit in The City! #FiTC2017!",
+      "id": "136798519691139_1466127976758180"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-30T14:10:43+0000",
+            "message": "Irene Puffer Wong nah the obstacles",
+            "id": "1465242333513411_1481074851930159"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "11 obstacle challenges for you to complete at Fit in The City. Haven't got your tickets yet? Book your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1465242333513411"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-12T12:30:04+0000",
+            "message": "Nice video Budi Ariyadi 😅😅",
+            "id": "1465021596868818_1465341253503519"
+          },
+          {
+            "created_time": "2017-10-12T13:24:59+0000",
+            "message": "Where is grit Kong Sei Key where is bodyattack YS Teoh",
+            "id": "1465021596868818_1465376536833324"
+          },
+          {
+            "created_time": "2017-10-12T02:27:47+0000",
+            "message": "Done. Very looking forward to it!!!",
+            "id": "1465021596868818_1465028576868120"
+          },
+          {
+            "created_time": "2017-10-19T00:52:17+0000",
+            "message": "Hazwan Yazit nakkk",
+            "id": "1465021596868818_1470925669611744"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MTIZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 12,
+          "can_comment": true
+        }
+      },
+      "message": "Let the energy fuel you through an 8 hour back-to-back group exercise with our GX Instructors this 4 November 2017. Book your tickets online now at www.heyjom.com/fitinthecity or at your nearest club and enjoy 30% off ticket price. #FiTC2017",
+      "id": "136798519691139_1465021596868818"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-12T07:15:21+0000",
+            "message": "Joelle Teh wah",
+            "id": "1464375963600048_1465177966853181"
+          },
+          {
+            "created_time": "2017-10-12T03:47:02+0000",
+            "message": "Joelle Teh 😍",
+            "id": "1464375963600048_1465069773530667"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Dance is the mission, #Zumba is the passion!\n\nJoin Joelle, Fitness First GX Instructor as she shake, shuffle and Zumba to the hottest beat on 4 November, 2017 at Fit in The City. #FiTC2017\n\n30% early bird tickets selling fast! Grab them now at your nearest club front desk or at www.heyjom.com/fitinthecity",
+      "id": "136798519691139_1464375963600048"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-11T07:21:14+0000",
+            "message": "Hi 👋🏻 Eric Yap 😅",
+            "id": "1462589563778688_1464322956938682"
+          },
+          {
+            "created_time": "2017-10-11T10:18:48+0000",
+            "message": "Thanks Terry Chong 😂 I look so funny 😂",
+            "id": "1462589563778688_1464417990262512"
+          },
+          {
+            "created_time": "2017-10-12T14:19:51+0000",
+            "message": "Love this!!!!!",
+            "id": "1462589563778688_1465411900163121"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Strengthen your core muscles - for overall balance, mobility and stability with 30-minute Hardcore by Cheng, Eric Yap & Jason Ng, Fitness First GX Instructors. Take up the challenge and join us on 4 November 2017 at Fit in The City.\n\n30% early bird tickets selling fast! Grab them now at your nearest club front desk or at www.heyjom.com/fitinthecity. #FiTC2017",
+      "id": "136798519691139_1462589563778688"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "An extended space to deliver the ultimate workout experience to all our members at Fitness First Platinum 1 Mon't Kiara. Stay tuned for new exciting programmes and equipment. Coming soon in November 2017.\n\nPlease note that our club is operating as usual and members can still access all our facilities.",
+      "id": "136798519691139_1463513330352978"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-10T09:41:29+0000",
+            "message": "Loads of room at FF Melawati Mall !!!",
+            "id": "1463471880357123_1463498670354444"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nDue to the expansion of the freestyle area and creation of a new boxing zone, there will be some work carried out in the freestyle area at Fitness First Platinum 1 Mont' Kiara.\n\nSpaces for this classes will be limited from October 11 - November 11, 2017:\n\nSURGE - limited to 12 pax only.\nHardcore - limited to 10 pax only.\nFreestyle Group Training (FGT) - limited to 10 pax only.\n\nWe apologise for the inconvenience caused, and in the interim, should you prefer, please feel free to use any other clubs in the Fitness First network.\n\nThank you for your patience and understanding.",
+      "id": "136798519691139_1463471880357123"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-09T16:31:18+0000",
+            "message": "Sunny Cheong.  You see.  You see.",
+            "id": "1462579803779664_1462906737080304"
+          },
+          {
+            "created_time": "2017-10-09T11:46:47+0000",
+            "message": "Renee Low Lee Ping MeiKuen Foo 😍😍😍",
+            "id": "1462579803779664_1462703273767317"
+          },
+          {
+            "created_time": "2017-10-09T12:09:09+0000",
+            "message": "YS Teoh",
+            "id": "1462579803779664_1462716123766032"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Work up a sweat with Renee and Queen, Fitness First and Celebrity Fitness Malaysia GX instructors in the all new BodyCombat at Fit in The City. #FiTC2017 \n\nPurchase your tickets today: www.heyjom.com/fitinthecity",
+      "id": "136798519691139_1462579803779664"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-03T00:38:20+0000",
+            "message": "I like every single thing of the gym, except the window glass at the thread mill section. I cant hardly focus as the filter/sun protection chequered box window sticker making me dizzy when I’m running.\n\nI’ve asked few members and they thought the same tho.",
+            "id": "1462566167114361_1540847425952901"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "id": "136798519691139_1462566167114361"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Due to essential maintenance, there will be no electricity at Fitness First Menara Axis from 4pm - 4am today. Power will be restored the next day, 8 October 2017.\n\nWe apologise for the inconvenience caused, and in the interim, should you prefer, please feel free to use any other clubs in the Fitness First network.\n\nThank you for your patience and understanding.",
+      "id": "136798519691139_1460673790636932"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-06T15:12:33+0000",
+            "message": "This is what my teacher teach.",
+            "id": "1459960774041567_1460135374024107"
+          },
+          {
+            "created_time": "2017-10-06T15:52:42+0000",
+            "message": "Awesome!",
+            "id": "1459960774041567_1460165334021111"
+          },
+          {
+            "created_time": "2017-10-07T16:28:36+0000",
+            "message": "Hey hebat",
+            "id": "1459960774041567_1461106653926979"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "It’s party timeeeee!",
+      "id": "136798519691139_1459960774041567"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-06T10:52:53+0000",
+            "message": "Suhaila Sue ko tu kan 😏 #sapot",
+            "id": "1459948360709475_1459955024042142"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Recharged, restored and revived.\nFeel the boost with BodyVive by Serra and Eric Yap, Fitness First BodyVive Instructors.\n\n#FitnessFirstPlatinumMelawatiMall",
+      "id": "136798519691139_1459948360709475"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-04T15:18:54+0000",
+            "message": "Thanks ff for organizing. We had an amazing time!  Lovely location, peaceful ambience, lots of fun things to do besides yoga everyday.  The attention and guidance of all your best yoga instructors. I think this will be a hard trip to top!",
+            "id": "1458227087548269_1458482910856020"
+          },
+          {
+            "created_time": "2017-10-05T16:03:57+0000",
+            "message": "I m new to this group but greatly benefited from joining this great idea of a yoga retreat in romantic Bali.  Spa Village was a pleasant cosy secluded hotel location.  3 meals a day with so much Balinese chili! 😋 Instructors were friendly n attentive.  Perhaps needed some participant intros in order to gel the group although by 2nd day many had bonded.  Maybe a 5D4N retreat next?  Thanks Fitness First for organising this fun trip! 👍",
+            "id": "1458227087548269_1459323600771951"
+          },
+          {
+            "created_time": "2017-10-04T16:41:50+0000",
+            "message": "Just love, love, love! Thoroughly enjoyed the yoga retreat thanks to FF & all the dedicated instructors. Loved the resort, the yoga sessions, the massages (given by both masseurs & the instructors!) & meeting new friends! Agree with Bee Yong on this trip being hard to top! Thanks Jamie Chow for convincing me to go!",
+            "id": "1458227087548269_1458541427516835"
+          },
+          {
+            "created_time": "2017-10-05T03:51:45+0000",
+            "message": "The entire retreat was truly enjoyable. The marketing dept were excellent and the instructors were great.\n\nMany thanks to Jamie Chow& Thomas Loong for their time to ensure we are comfortable and happy in the retreat from the beginning to the end. Their teaching skills are really good. \n\nThank you to FF Malaysia for organising this event too.",
+            "id": "1458227087548269_1458903344147310"
+          },
+          {
+            "created_time": "2017-10-05T05:50:29+0000",
+            "message": "Kudos to Fitness First for organizing this yoga retreat in Spa Tembok Bali. It is an amazing experience to practise yoga at garden facing the ocean accompanied by waves sound and sea breeze and of course the classes were taught by experience teachers i.e. Jamie Chow, Thomas Loong & team. I hope Fitness First Marketing will organise more retreats in future.",
+            "id": "1458227087548269_1458958650808446"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "OAZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 8,
+          "can_comment": true
+        }
+      },
+      "message": "A 4-day, 3-night retreat of total bliss, within the paradisiac setting of the Spa Village Resort Tembok Bali with classes conducted by Fitness First & Celebrity Fitness Malaysia instructors, daily spa rituals, and the most delicious food prepared by top chefs. \n\nThank you for being with us during this amazing journey. We were honoured to have you there. Thank you to our sponsors Amazin' Graze, SHISEIDO and Soda Malaysia.",
+      "id": "136798519691139_1458230550881256"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "祝福中秋佳节快乐，月圆人圆事事圆满.\n\nWishing you an abundance of good fortune and happiness this Mid-Autumn Festival.",
+      "id": "136798519691139_1458089690895342"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "We are about to unleash fresh moves and hot new tunes on November 4, 2017 at Fit in The City.\n\nEarly bird ticket price has been extended. Register to join Uchop & Baby G, Fitness First & Celebrity Fitness Malaysia GX Instructors as they will lead the BodyJam session.\n\nClick here to purchase your tickets now: www.heyjom.com/fitinthecity",
+      "id": "136798519691139_1453852927985174"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-03T07:38:59+0000",
+            "message": "Do I need to bring a member friend along with me during the open week? \n\nUsually on open week, I (non-member) get stopped by the reception as I go in alone although it was clearly promoted as an open week. Thanks in advance.",
+            "id": "1456803974357247_1457382157632762"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nDue to popular demand and encouraging response, we are\nhappy to announce that Fitness First Platinum Melawati Mall will be open to all Platinum members effective immediately.\n\nWe are also having an *Open Week until October 8, 2017 with\nloads of exciting activities lined up for you. Head towards our\nbrand new club today - experience our well-equipped facilities,\ngroup exercise classes and exclusive Signature programmes.\n\nWe appreciate your continuous support and look forward to\nwelcoming you! For more information, please speak to our team today.\n\n*Open to public.\nCheck out the \"Open Week\" timetable here: bit.ly/MelawatiMallGrandLaunch",
+      "id": "136798519691139_1456803974357247"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-30T12:48:06+0000",
+            "message": "Omg...i missed this today :( TT tgis",
+            "id": "1454916947879283_1455045151199796"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MgZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Thank you everyone for joining our Animal Flow class by Vincent at Fitness First Platinum The Gardens Mall. \nSee you guys in the next session every Tuesday (8pm) & Saturday (12noon).",
+      "id": "136798519691139_1454916947879283"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-01T02:36:33+0000",
+            "message": "This is so ridiculous. I am a first club member and when I walk into the club only was I told tht the priority is for melawati mall members for the first month..  Like seriously as if this branch is so damn special.. Only reason I'm here coz it's closer to my house.. When Gardens ff just opened I went there n there wasn't an issue.. If other ff branch members r not allowed then say so earlier..  Don't go posting on the page like it's open for every ff members...",
+            "id": "1453293168041661_1455548687816109"
+          },
+          {
+            "created_time": "2017-10-01T08:47:13+0000",
+            "message": "Simple marketing: if the gym looks empty, ppl would have the thought of \"expensive\", \"rip-off\", etc. If the gym is full of ppl, the potential customers would have thought the gym is good. So yea... if they have many new members, lain lah. Tgk la the whole week macam mana, penuh tak gym tu 😏",
+            "id": "1453293168041661_1455730257797952"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Tomorrow is the day! Just one day left to take advantage of our pre-opening offer. Visit our pop-up store at G Floor, Unit 27 & 28, Melawati Mall today to sign up!\n\nTo find out more, visit https://www.fitnessfirst.com.my/melawati-mall.",
+      "id": "136798519691139_1453293168041661"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-29T09:26:45+0000",
+            "message": "Opening 1st October to all FF platinum members?",
+            "id": "1453292564708388_1454135194624125"
+          },
+          {
+            "created_time": "2017-09-29T09:48:20+0000",
+            "message": "Wow can i cancelled my existing membership and sign up with them???",
+            "id": "1453292564708388_1454146407956337"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Don't miss out on our member exclusive deals! Sign up for a #FitnessFirstPlatinumMelawatiMall membership in-store today.\n\nFor more information, visit https://www.fitnessfirst.com.my/melawati-mall.",
+      "id": "136798519691139_1453292564708388"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Box to the beat with BOOM by Koen Tan, Fitness First Boxing Trainer. New programme coming your way. Stay tuned!",
+      "id": "136798519691139_1454020237968954"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-07T00:52:57+0000",
+            "message": "Hi. . Meaning the gym is now officially open for all platinum members?",
+            "id": "1453990921305219_1460562747314703"
+          },
+          {
+            "created_time": "2017-09-29T11:59:48+0000",
+            "message": "So Fitness First FB admin, open to all or open to those sign up at Melawati only, posts by posts all are so confusing, it is near my house and I thought I could access by October. State it clearly as I dun wan to waste my time going there n cannot go in.",
+            "id": "1453990921305219_1454218257949152"
+          },
+          {
+            "created_time": "2017-10-08T17:18:36+0000",
+            "message": "Pm",
+            "id": "1453990921305219_1462094897161488"
+          },
+          {
+            "created_time": "2017-10-01T23:57:16+0000",
+            "message": "Eija Khadijah Dira Zakaria Norismaliza Ismayatin Sharizan Shariff Ann Khan Zeti Akhtar Mahtar Yati Akhtar jom open for public ni",
+            "id": "1453990921305219_1456337004403944"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MTAZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 10,
+          "can_comment": true
+        }
+      },
+      "message": "Bring it on - #FitnessFirstPlatinumMelawatiMall grand opening is about to go off. We have a line of top experiences and fun activities dedicated just for you. Bring a friend along and join us for the excitement!\n\nDate: October 2-14, 2017\nVenue: Fitness First Platinum Melawati Mall\n\nCheck out the timetable here: http://bit.ly/MelawatiMallGrandLaunch\n*Open to all members & non-members.",
+      "id": "136798519691139_1453990921305219"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-29T05:02:32+0000",
+            "message": "Can we allow to go in since some of  the members aren't from Melawati's club ?",
+            "id": "1453304238040554_1454012501303061"
+          },
+          {
+            "created_time": "2017-10-02T10:10:37+0000",
+            "message": "Please PM me price",
+            "id": "1453304238040554_1456619861042325"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MgZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "EXPERIENCE YOUR BEST",
+      "id": "136798519691139_1453304238040554"
+    },
+        {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-08T12:42:37+0000",
+            "message": "Minimum how much per month?",
+            "id": "1453292031375108_1461876933849951"
+          },
+          {
+            "created_time": "2017-09-28T10:47:47+0000",
+            "message": "Come and join us guys!",
+            "id": "1453292031375108_1453367911367520"
+          },
+          {
+            "created_time": "2017-09-28T13:27:23+0000",
+            "message": "Zimmie Loy one more club to explore.",
+            "id": "1453292031375108_1453462998024678"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NAZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 4,
+          "can_comment": true
+        }
+      },
+      "message": "3 days to go to opening of #FitnessFirstPlatinumMelawatiMall. Sign up now to enjoy fantastic membership deals and more at G Floor, Unit 27 & 28, Melawati Mall.\n\nHow it works:\n- Attractive Founder Membership (Home) Fee.\n- Exclusive Starter Kit – Backpack + H20 Bottle.\n- Zero Start Up Fee (upon purchase of BodyFirst & BodyExtra).\n- Complimentary limited edition Intro Pack includes Toiletry Bag & Towel (valued at RM119.00), while stocks last.\n- Offer valid until September 30, 2017.\n\nFor more information, visit https://www.fitnessfirst.com.my/melawati-mall.\nSpeak to our team today!",
+      "id": "136798519691139_1453292031375108"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2018-01-23T16:19:10+0000",
+            "message": "I like it",
+            "id": "1453289801375331_1560385250665785"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "We fight to beat the odds - new programme only at Fitness First Platinum 1 Mont’ Kiara. Experience BOOM this November 2017.",
+      "id": "136798519691139_1453289801375331"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Our Fitness First team - Ahmad, Mukhriz, Faiz and Farah took over F1 Boot Camp, KLCC yesterday with Petronas AMG F1 drivers - Lewis Hamilton & Valtteri Bottas, Malaysian SEA Games Gold Medalists - Pandalela Rinong, Azizulhasni Awang, Matt Davies, N Thanabalan, Farah Ann Abdul Hadi, PS Chan ( 陈炳顺 ), Goh Liu Ying 吴柳萤, Zulkiflee Azmi, and Malaysian two wheel riders - Hafizh Syahrin & Kasma Daniel for a Freestyle Group Training (FGT) session.\n\nThank you PETRONAS Malaysia for the opportunity to work on such a fun project!",
+      "id": "136798519691139_1452506568120321"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-27T04:03:42+0000",
+            "message": "Hi,\n\nPlease forward this email to the person in charged.\n\nTalked to Azil just now from Fitness First Avenue K. So last month I called in to cancel my membership. I know that my 1 year tenure is coming end of Sept. Hence, its just nice as to serve a 1 month notice. Was told that Azwan Avenue K will call me in to assist on my cancellation, nobody did. \n\nThen I walked in to confirm on my cancellation, apparently was told that Azwan was on leave for travelling, Geeta took my case. \n\nToday I called in again to confirm(answered by Azil), was told that Geeta is on 2 weeks leave. Another manager will take my case, which interestingly that person is not around today as was told that the person needs to take care of two clubs.\n\nI just want a confirmation that 30 Sept is my last day as I don't want to continue anymore. I hope I don't have to do a police report on this matter.\n\n-Ezir Kushairi",
+            "id": "1450915464946098_1452399451464366"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Devote yourself to 75 minutes of BodyBalance, strike your best pose and stand a chance to win *Célmonze Malaysia, The Pure Facial Care or Relaxing Body Massage worth up to RM168.\n\nIdeal for anyone and everyone, BodyBalance is the yoga-based class that will improve your mind, body and life.\n\n75 MINUTES OF BODYBALANCE\nDate: October 1-8, 2017\nVenue: All Fitness First clubs\n\nCheck out the timetable here: http://bit.ly/BodyBalance75mins\n*Applicable for female members only.",
+      "id": "136798519691139_1450915464946098"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-26T01:46:37+0000",
+            "message": "Faiz, are you telling me you skipped my training session to work out with Lewis Hamilton and Valtteri Bottas?! 🤣",
+            "id": "1451508014886843_1451547028216275"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Warm up session by Fitness First team at #pmgp2017, KLCC Park",
+      "id": "136798519691139_1451508014886843"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "A strong, more flexible body meets a calm, more centered mind. Find the strength you never knew you had with our new BodyBalance release: http://bit.ly/BodyBalance75mins",
+      "id": "136798519691139_1450903174947327"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "75 MINUTES OF BODYBALANCE",
+      "id": "136798519691139_1440100462694265"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-25T09:59:27+0000",
+            "message": "MAKAN AZAN!",
+            "id": "1450810091623302_1450976468273331"
+          },
+          {
+            "created_time": "2017-09-25T04:15:23+0000",
+            "message": "I looove ice cream 🍦",
+            "id": "1450810091623302_1450831711621140"
+          },
+          {
+            "created_time": "2017-09-25T11:36:24+0000",
+            "message": "Hansen Yeo",
+            "id": "1450810091623302_1451027911601520"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Ice-cream is totally an acceptable meal at this point! \n\nGet FREE wholemeal vegan cone when you purchase a minimum single scoop ice-cream by December 31, 2017 at Kind Kones, Mont' Kiara.",
+      "id": "136798519691139_1450810091623302"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Having something to listen to at the gym or while hitting the pavement can make your workout much better. Get 10% off your Jaybird headphones from October 2-8, 2017 at Fitness First Platinum Melawati Mall.",
+      "id": "136798519691139_1450800838290894"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-27T04:07:05+0000",
+            "message": "Cik Lieza wanna try",
+            "id": "1450770048293973_1452401031464208"
+          },
+          {
+            "created_time": "2017-09-30T00:56:09+0000",
+            "message": "Can come view before the day ?",
+            "id": "1450770048293973_1454674861236825"
+          },
+          {
+            "created_time": "2017-09-28T03:47:59+0000",
+            "message": "Nabihah Othman tag me! 😄",
+            "id": "1450770048293973_1453180151386296"
+          },
+          {
+            "created_time": "2017-09-25T03:25:17+0000",
+            "message": "Wanda Abu Hasan let's jommmm",
+            "id": "1450770048293973_1450808618290116"
+          },
+          {
+            "created_time": "2017-09-25T11:25:21+0000",
+            "message": "Don Sinongco go join with Am!",
+            "id": "1450770048293973_1451022168268761"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 7,
+          "can_comment": true
+        }
+      },
+      "message": "GAME OF ZONES - 7 ZONES. 7 CHALLENGES. 7 DAYS\n\nWe want you to have a taste of these zones before our official launch in October. Bring a friend or come together as a team of 4 to see who can score the highest in 7 of our workouts. Your team will be challenged in each zones - BODYJAM, NAK MUAY, AERIAL FLOW YOGA, X-BLAST, PRO45, BURN & FREESTYLE GROUP TRAINING (FGT).\n\nDate: September 25-30, 2017 | Finale: October 1, 2017\nVenue: Fitness First Platinum Melawati Mall\nCheck out the Game of Zones timetable here: http://bit.ly/FitnessFirstGamesofZones\n\nAttendees will stand a chance to win a Jaybird wireless headphones worth RM828 & Mammam value up to RM100.\n\nOpen to all members & non-members. \nRegister at Front of House (FOH) or call us at 03-41619816 to reserve your slot now.",
+      "id": "136798519691139_1450770048293973"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Obstacles are put in your way to see if what you want is really worth fighting for.\n\nSpartan Mass Workout at Fitness First Platinum Melawati Mall today.\n\n#fitnessfirstmalaysia #fitnessfirstplatinummelawatimall #spartanmassworkout #togetherwerise #conqueryourobstacles",
+      "id": "136798519691139_1450242845013360"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "There will be obstacles, there will be doubters, there will be mistakes, but with hard work, there will be success.",
+      "id": "136798519691139_1450238751680436"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nPlease be informed that Setia City Mall Management will be conducting an Emergency Evacuation Exercise for all tenants on September 26, 2017 (Tuesday). As such, there is an adjustment to our club operating hours:\n\n6.30am-10.00am: Business as usual\n10.00am-11.30am: Closed for Fire Drill\n11.30am onwards: Business as usual\n\nWe apologise for the inconvenience caused, and in the interim, should you prefer, please feel free to use any other clubs in the Fitness First network.\n\nThank you for your patience and understanding",
+      "id": "136798519691139_1449200641784247"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-24T06:43:07+0000",
+            "message": "still feeling the x4 bear crawl after-effects...",
+            "id": "1449908685046776_1450091878361790"
+          },
+          {
+            "created_time": "2017-09-25T04:13:51+0000",
+            "message": "this is at melawati mall?",
+            "id": "1449908685046776_1450830934954551"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Spartan Mass Workout - bear crawl station",
+      "id": "136798519691139_1449908685046776"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-24T07:23:21+0000",
+            "message": "Burpees the best workout",
+            "id": "1449906558380322_1450109871693324"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Another round of Spartan mass workout happening today conducted by our trainers at Fitness First Platinum Melawati Mall.",
+      "id": "136798519691139_1449906558380322"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-24T02:01:46+0000",
+            "message": "Now that's determination",
+            "id": "1449905291713782_1449942941710017"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "id": "136798519691139_1449905291713782"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Ross, Fitness First & Celebrity Fitness Malaysia Corporate Account Manager and Simon Flint, CEO of Evolution Wellness don't want to miss the opportunity to take photo with the football legend too! \n\nMeet and greet session with @davidbeckham at AIA Vitality Wellness Festival yesterday.",
+      "id": "136798519691139_1449189165118728"
+    },
+    {
+      "comments": {
+        "data": [
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Unleash your inner warrior with BodyCombat! Lead by Cheng & Peggy, Fitness First BodyCombat instructors at AIA Vitality Wellness Festival, Kuala Lumpur Convention Centre.\n\n#fitnessfirstmalaysia #aiavitality #aiavitalitywellnessfestival2017",
+      "id": "136798519691139_1448423841861927"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-23T04:45:41+0000",
+            "message": "Haiz..! Only for MM members ☹️",
+            "id": "1447581515279493_1449169655120679"
+          },
+          {
+            "created_time": "2017-09-22T08:35:23+0000",
+            "message": "Hi FF, wonder do you have any membership that allow flexibility meaning I just need a month of membership?",
+            "id": "1447581515279493_1448444411859870"
+          },
+          {
+            "created_time": "2017-09-23T01:43:09+0000",
+            "message": "王裕瑞 hahha",
+            "id": "1447581515279493_1449076628463315"
+          },
+          {
+            "created_time": "2017-09-23T03:38:57+0000",
+            "message": "Bring me thr Simone Loh",
+            "id": "1447581515279493_1449136191790692"
+          },
+          {
+            "created_time": "2017-09-23T04:10:56+0000",
+            "message": "Aina Abd Sukor nak g?",
+            "id": "1447581515279493_1449151721789139"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "GAME OF ZONES - 7 ZONES. 7 CHALLENGES. 7 DAYS\n\nWe want you to have a taste of these zones before our official launch in October. Bring a friend or come together as a team of 4 to see who can score the highest in 7 of our workouts. Your team will be challenged in each zones - BODYJAM, NAK MUAY, AERIAL FLOW YOGA, X-BLAST, PRO45, BURN & FREESTYLE GROUP TRAINING (FGT).\n\nDate: September 25-30, 2017 | Finale: October 1, 2017\nVenue: Fitness First Platinum Melawati Mall\nCheck out the Game of Zones timetable here: http://bit.ly/FitnessFirstGamesofZones\n\nAttendees will stand a chance to win a Jaybird wireless headphones worth RM828 & Mammam value up to RM100.\n\nOpen to all members and non-members.\nRegister at Front of House (FOH) or call us at 03-41619816 to reserve your slot now.",
+      "id": "136798519691139_1447581515279493"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "GAMES OF ZONES",
+      "id": "136798519691139_1447588711945440"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Sunrise, yoga, and a breathtaking view, there's no better way to start your Saturday than with our next rooftop yoga class!\n\nTrish, Fitness First Flow Yoga Instructor will be leading you through an invigorating practice as you watch the sunrise. \n\nSUNRISE FLOW YOGA\nDate: September 23, 2017 (Saturday) | Time: 7.15am - 8.15am\nVenue: The Gardens Mall, level 6 rooftop\nInstructor: Trish, Fitness First Flow Yoga Instructor\n\n*Limited to 30 people. \n*Open for all members and non-members.",
+      "id": "136798519691139_1447565171947794"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-22T01:15:06+0000",
+            "message": "Wow ok noted with thanks",
+            "id": "1446804422023869_1448217538549224"
+          },
+          {
+            "created_time": "2017-09-23T13:09:57+0000",
+            "message": "F1 dah jv dgn cf ke",
+            "id": "1446804422023869_1449419561762355"
+          },
+          {
+            "created_time": "2017-09-21T06:18:31+0000",
+            "message": "Wow  Lawanya awektu",
+            "id": "1446804422023869_1447547748616203"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NAZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 4,
+          "can_comment": true
+        }
+      },
+      "message": "Take your strength to another zone by joining our GRIT™ Challenge in conjunction with our new release – GRIT™ 22 and stand a chance to win tickets to Fit in The City!\n\nFind out how you can get your hands on the tickets here: http://bit.ly/GRITchallenge",
+      "id": "136798519691139_1446804422023869"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "GRIT™ Challenge",
+      "id": "136798519691139_1446764115361233"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-22T17:07:15+0000",
+            "message": "Hi how much is Platinum (Home) membership for 1 year?",
+            "id": "1446712042033107_1448760451828266"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Dear members,\n\nPlease be advised that, due to Empire Shopping Gallery’s power shutdown, the gym will be closed at 10.30pm today. \n\nApologies for any inconvenience caused.",
+      "id": "136798519691139_1446712042033107"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-06T04:39:08+0000",
+            "message": "爬得上墙吗?🙈🙈🙈Abby Lee",
+            "id": "1443201135717020_1456241091079691"
+          },
+          {
+            "created_time": "2017-09-30T15:03:31+0000",
+            "message": "Rya Yahaya minat?",
+            "id": "1443201135717020_1451646094872524"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 3,
+          "can_comment": true
+        }
+      },
+      "message": "Are you up for a real challenge? Have you ever pushed yourself so far you almost couldn’t continue on?\n\nTest your limits and sign up for the 11 thrilling obstacles! This is the first Fit in The City to take place in an urban area.\n\nThe challenge - be ready for anything, you won’t know what to expect until you step out on the course and give it your all! \n\n30% early bird discount is still applicable! Get your tickets now at: http://www.heyjom.com/fitinthecity\n\n*limited to the first 500 only.",
+      "id": "136798519691139_1443201135717020"
+    },
+        {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-20T10:47:39+0000",
+            "message": "I wish I can attend it but I already registered for the 1 Mont Kiara Stairgathon event which held on the same day.",
+            "id": "1446582942046017_1446830688687909"
+          },
+          {
+            "created_time": "2017-09-23T07:02:09+0000",
+            "message": "Argghhhh!!! I totally cannot attend!!! Huhuhu.....my race category will start late....can only admire from Mont Kiara....😩",
+            "id": "1446582942046017_1449231808447797"
+          },
+          {
+            "created_time": "2017-09-20T11:15:33+0000",
+            "message": "Hrmm.. me too. 2xu run in the same date!",
+            "id": "1446582942046017_1446845802019731"
+          },
+          {
+            "created_time": "2017-09-20T11:17:39+0000",
+            "message": "I want to go too but got 2xu run too :( TT",
+            "id": "1446582942046017_1446847108686267"
+          },
+          {
+            "created_time": "2017-09-29T00:25:54+0000",
+            "message": "Melawati....i need to orbit a different galaxy like dat...so jauh...you strong sexy people have fun anyways.",
+            "id": "1446582942046017_1453875804650064"
+          },
+          {
+            "created_time": "2017-09-23T06:48:27+0000",
+            "message": "I coming but a bit late",
+            "id": "1446582942046017_1449224518448526"
+          },
+          {
+            "created_time": "2017-09-22T16:32:47+0000",
+            "message": "I am going for this .see you there :))",
+            "id": "1446582942046017_1448740491830262"
+          },
+          {
+            "created_time": "2017-09-21T12:16:50+0000",
+            "message": "Too bad i balik kampung lahh",
+            "id": "1446582942046017_1447733061931005"
+          },
+          {
+            "created_time": "2017-09-23T13:24:25+0000",
+            "message": "Meng Wee Randy c u there tmr",
+            "id": "1446582942046017_1449428695094775"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "OQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 9,
+          "can_comment": true
+        }
+      },
+      "message": "Spartan Beast 2017 is approaching soon and it’s time to step up your training routine. Join us for the second Spartan Mass Workout lead by our Fitness First-Spartans trainers to get you Spartan Fit!\n\nSPARTAN MASS WORKOUT\nDate & Time: September 24, 2017 | 8.30am - 11.00am\nVenue: Fitness First Platinum Melawati Mall, Kuala Lumpur\nInstructor: Lau HS, Raha, Zec\n\n*Limited to 100 pax only. Register your space now.\n**Open for all members, non-members & #SpartanBeast participants",
+      "id": "136798519691139_1446582942046017"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "\"Body is the bow, asana is the arrow and the soul is the target.\" - B.K.S Iyengar \n\nRestore & Relax Flow Yoga by Celebrity Fitness Instructors - Nic, Helen & Sakun.",
+      "id": "136798519691139_1445241128846865"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Join us at Paradigm Mall this Wednesday as our Fitness First Personal Trainers - Jaythans, Mark & Plasma will takes you through a Freestyle Group Training series. Challenge your body, improve your efficiency and speed with our fun and dynamic workout!\n\nDate & Time: September 20, 2017 (Wednesday) | 6.45pm - 7.30pm\nVenue: Boulevard - Level G, Paradigm Mall\nInstructor: Jaythans, Mark & Plasma\n\n*Open for all members & non-members.\n*Limited to 30 people. Pre-register at club required.",
+      "id": "136798519691139_1444871118883866"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Early morning awakenings.\n\nEnergising Morning Flow Yoga by Celebrity Fitness Flow Yoga Instructors - Nic, Helen & Sakun.",
+      "id": "136798519691139_1444799115557733"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Relax your body. Calm your mind. Renew your spirit.\n\nYin & Relax Flow Yoga by Fitness First Flow Yoga Instructors - Steve, Sean & Chris Wong.",
+      "id": "136798519691139_1444793738891604"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Breathing in relaxation. Breathing out tension.\n\n#fitnessfirstmalaysia #celebrityfitnessmalaysia #rejuvenate #relax #refresh #flowyoga #yin\n#baliyogaretreat",
+      "id": "136798519691139_1444748352229476"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "With each inhale lift your heart closer to the sun. With each exhale root your heels more deeply in the ground. #findyourblissinBali",
+      "id": "136798519691139_1444033622300949"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-17T10:35:12+0000",
+            "message": "Hg hawh ve zawl na cim a leh",
+            "id": "1444025108968467_1444339038937074"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Let there be SUNSHINE in your soul today. #findyourblissinBali",
+      "id": "136798519691139_1444025108968467"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Every morning we are born again. What we do today is what matters most. #findyourblissinBali",
+      "id": "136798519691139_1444011628969815"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-17T08:42:57+0000",
+            "message": "Picture not clear at all... Better still not try to do something not worth at all.",
+            "id": "1443986028972375_1444284185609226"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Breathe it all in love it all out. #findyourblissinBali",
+      "id": "136798519691139_1443986028972375"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-18T12:11:35+0000",
+            "message": "Apanama lokasinya",
+            "id": "1443978365639808_1445166248854353"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "An energising way to start the day. Joyful Morning Flow Yoga by Fitness First & Celebrity Fitness Malaysia instructors – Jamie, Chris, Thomas, Nic, Helen, Sakun & Steve. #findyourblissinBali",
+      "id": "136798519691139_1443978365639808"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-17T19:43:18+0000",
+            "message": "Hi how do you do",
+            "id": "1443525719018406_1444674098903568"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Breathe through it and release anything that does not serve you. #findyourblissinBali\n\nRejuvenate & Relax Flow Yoga by Fitness First Flow Yoga Instructor, Jamie, Thomas & Steve.",
+      "id": "136798519691139_1443525719018406"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "All retreat participants arrived safe and sound. It's been a long journey but all ready to embrace the day. #findyourblissinBali\n\nNamaste,\nFitness First Malaysia & Celebrity Fitness Malaysia",
+      "id": "136798519691139_1443489569022021"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-10T06:01:39+0000",
+            "message": "Hi any FF in Penang?",
+            "id": "1435480556489589_1438323609538617"
+          },
+          {
+            "created_time": "2017-09-18T07:53:48+0000",
+            "message": "អស្ចារ្យ",
+            "id": "1435480556489589_1445045772199734"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "As we are gearing up towards our grand opening in October, we are inviting you to have a taste of our Signature Programmes. Packed with high intensity and energizing programmes, it will get your heart pumping for more.\n\nDate: September 13 – 23, 2017\nVenue: Fitness First Platinum Melawati Mall\n\n*Open to Fitness First Platinum Melawati Mall members only.\n*Limited slots. Pre-registered at club required.",
+      "id": "136798519691139_1435480556489589"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "FITNESS FIRST SIGNATURE PROGRAMMES",
+      "id": "136798519691139_1435239236513721"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-06T04:45:00+0000",
+            "message": "Already registered.......",
+            "id": "1435070646530580_1435115323192779"
+          },
+          {
+            "created_time": "2017-09-21T07:36:17+0000",
+            "message": "Rudy Irwan Aie Nasri Zam Zam As Bha Zammi Syar Saaid recovery n bekpes katanya",
+            "id": "1435070646530580_1447585775279067"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "1, 370 stairs and 20 floors of leg-burning fun!\nIn collaboration with 1 Mont’ Kiara, is organising the first \"Stairathon\" on September 24, 2017. Are you ready for the challenge? \n\nClick here to register: www.1montkiara.com/stairathon/",
+      "id": "136798519691139_1435070646530580"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Looking for a healthy, natural and wholesome meal after your workout?\nHead over to OURS Eatery located at Damansara City Mall and enjoy 10% off on any of their a la carte Naked Bowl or wrap when you dine or take away from the restaurant.\n\nDon’t feel like driving?\nNo problem. They deliver to Menara Manulife with a minimum order of RM50 without any surcharge.\n\n*Promo period: September 4, 2017 - September 3, 2018",
+      "id": "136798519691139_1434490953255216"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Here's a sneak peek of what's coming your way in October! #fitnessfirstplatinummelawatimall",
+      "id": "136798519691139_1431885276849117"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-01T09:27:12+0000",
+            "message": "Wahhh wrong timing bakket, punta ako cameron sa monday, back thursday next week!! Roxanne Bagain",
+            "id": "1431024283601883_1431109226926722"
+          },
+          {
+            "created_time": "2017-09-01T09:26:02+0000",
+            "message": "Jane Valencia pili ka oh. gora na yan! series pati. hehe",
+            "id": "1431024283601883_1431108806926764"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "Learn how Flow Yoga Education Series incorporating simple breathing techniques with specific movements that will unlock resistance and help your practice flow with ease. A 90 minute class, led by our expert Fitness First Yoga instructors, where the benefits of what you learn in the workshop are weaved right through the practice.\n\nFLOW YOGA EDUCATION SERIES\nDate: September 4-10, 2017\nVenue: All Fitness First clubs\n\nCheck out the timetable here: http://bit.ly/FlowYogaEducationSeries",
+      "id": "136798519691139_1431024283601883"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-07T05:54:03+0000",
+            "message": "Thank you ff for having this. I attended the special class by Sop Fan and Wai Wai. Both were enlightening. And hard work!  We so often hear 'use your breath' to help you. Yet we so seldom understand what it means. This class was useful for us to pause in our rush to perfect the pose to remind us that it's not the destination but the journey that counts. Namaste",
+            "id": "1430869240284054_1435907659780212"
+          },
+          {
+            "created_time": "2017-09-03T07:39:12+0000",
+            "message": "Hi, is the 4th September 7pm class@Empire still on in view of PH?",
+            "id": "1430869240284054_1432759636761681"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 2,
+          "can_comment": true
+        }
+      },
+      "message": "FLOW YOGA EDUCATION SERIES",
+      "id": "136798519691139_1430869240284054"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Increase strength and improve cardio fitness in less than 30 minutes with this exclusive high energy, cross training programme. X-Blast provides a great mix of exercises utilising high performance equipment such as Octane Elliptical, Lateral X, PowerBlock fused with Fitness First’s Dynamic Movement Training (DMT).\n\nSeptember 5, 2017\nFitness First Platinum The Gardens Mall\n7.00pm - Nonita\n\nSeptember 7, 2017\nFitness First Platinum The Curve\n8.00am - Saiful\n\nFitness First Paradigm Mall\n6.30pm - Plasma\n\nFitness First Cheras Leisure Mall\n11am - Mukhriz and Sam\n\nBy completing our Finisher round, 2 members will stand a chance to win Dah Makan’s Prime Package meal worth RM199 each.\n\nHave a blast at the X-BLAST!",
+      "id": "136798519691139_1430055960365382"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-10-05T13:26:48+0000",
+            "message": "Kindly send the detail to me. Thank you",
+            "id": "1428453980525580_1459210364116608"
+          },
+          {
+            "created_time": "2017-09-13T16:05:23+0000",
+            "message": "Kindly sent detail please",
+            "id": "1428453980525580_1441106755926969"
+          },
+          {
+            "created_time": "2017-09-09T23:52:01+0000",
+            "message": "佩燕 佩珍很像很好玩叻😂",
+            "id": "1428453980525580_1438130582891253"
+          },
+          {
+            "created_time": "2017-09-14T12:39:28+0000",
+            "message": "Yayi Annie Chan Bella Gan",
+            "id": "1428453980525580_1441824272521884"
+          },
+          {
+            "created_time": "2017-09-14T08:21:54+0000",
+            "message": "Bella Gan",
+            "id": "1428453980525580_1441697859201192"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 5,
+          "can_comment": true
+        }
+      },
+      "message": "Best for yoga - Thank you for choosing us as one of your SHAPE Malaysia Favourites Awards 2017.\n\nUnleash your body best form, break limits, and discover greater mindfulness. Harness equilibrium and wellness like never before with a premiere yoga class. \n\nExperience our Aerial Flow Yoga today with Fitness First FREE trial: https://www.fitnessfirst.com.my/free-trial/",
+      "id": "136798519691139_1428453980525580"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "UPDATE 30 August 2017, 1pm\n\nThere will be no water supply today at 10.30pm onwards. \nThis is to allow for some essential maintenance work to be done as the building technicians have found the cause of the leakage.\n\n----------\n\nThere will be a water disruption in Fitness First Menara Axis today at 9pm onwards. The building technician will be working diligently to get service restored as soon as possible. Water supply will be back to normal at 6.30am the following day.\n\nMembers, please visit the other clubs for your workout. We apologise for the inconvenience caused.",
+      "id": "136798519691139_1428480510522927"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Best for cardio - Thank you for choosing us as one of your SHAPE Malaysia Favourites Awards 2017. \n\nWhether you want to increase energy or reduce stress, cardio training helps you live a fitter life while strengthening your heart and lungs. From interval workouts to endurance exercises, cardio training can also help to lower blood pressure and cholesterol levels.\n\nExperience our signature programmes today with Fitness First FREE trial: https://www.fitnessfirst.com.my/free-trial/",
+      "id": "136798519691139_1428452063859105"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Happy 60th Independence Day, Malaysia and Congratulations to all our SEA Games athletes team for hitting their target of 111 gold medals!\n\n#bangkitbersamakitajuara #satumatlamatsatuimpian #KL2017 #risingtogether",
+      "id": "136798519691139_1428316680539310"
+    },
+        {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Reaching your goals takes dedication and consistency. Continue to better yourself and you will reap the rewards!\n\n100 Gold Medals for Malaysia - Congratulations to all our athletes who did their best and came out on top! \n\n#bangkitbersamakitajuara #satumatlamatsatuimpian #KL2017 #risingtogether",
+      "id": "136798519691139_1427724853931826"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Ever wonder what it would be like to take a water aerobics class? Meet Aqua Zumba, a fun, low impact format that brings your favorite dance moves and international rhythms into the water.\n\nAQUA ZUMBA\nDate & Time: August 31, 2017 | 11am - 12pm\nVenue: Pool area, Fitness First Platinum Empire Subang\nAttire: Swimwear\nInstructor: Hong, Fitness First Aqua Zumba instructor\n\n*Open to members and non-members. \n*Limited to 40 people only. Register at bit.ly/AquaZumbaclass",
+      "id": "136798519691139_1427685473935764"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-09-05T10:53:11+0000",
+            "message": "Can I register via counter at Mid Valley branch or other branch as I don't use credit card",
+            "id": "1425299374174374_1434515883252723"
+          },
+          {
+            "created_time": "2017-08-26T14:23:56+0000",
+            "message": "HeyJom website is not recognizing my membership number -_-",
+            "id": "1425299374174374_1426238850747093"
+          },
+          {
+            "created_time": "2017-09-23T14:03:18+0000",
+            "message": "Hi, I faced this problem when i was registering.\nI did ask front desk for my membership number, but still wont work",
+            "id": "1425299374174374_1449453858425592"
+          },
+          {
+            "created_time": "2017-09-02T09:45:54+0000",
+            "message": "I bought dy",
+            "id": "1425299374174374_1431979900172988"
+          },
+          {
+            "created_time": "2017-08-26T02:50:23+0000",
+            "message": "Zimmie Loy",
+            "id": "1425299374174374_1425912034113108"
+          },
+          {
+            "created_time": "2017-09-04T13:58:24+0000",
+            "message": "Please help me renew my passport advantage. Someone please email me asap. Thank you.",
+            "id": "1425299374174374_1433813236656321"
+          },
+          {
+            "created_time": "2017-09-23T13:58:47+0000",
+            "message": "Hendrix Leong here here",
+            "id": "1425299374174374_1449450661759245"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NwZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 7,
+          "can_comment": true
+        }
+      },
+      "message": "Early Bird Tickets for Fit in The City are now live!\n\nDon't miss out to experience the 11 Obstacle Race Challenges or join our back-to-back group exercise showdown on November 4, 2017 at KWC - Starxpo Center (Level 13A). Get your team together and sign up now: http://www.heyjom.com/fitinthecity\n\n*Tickets are limited to the first 500 only.",
+      "id": "136798519691139_1425299374174374"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "We are upgrading our air conditioning in Fitness First Platinum Empire Subang. As a result, FreeWeight area, Group Exercise and RPM studios will be warm while the new unit is installed.\n\nWe apologise for the inconvenience caused, and in the interim, should you prefer, please feel free to use any other clubs in the Fitness First network.\n\nThank you for your patience and understanding.",
+      "id": "136798519691139_1422956774408634"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "It's time to take action. Join us for a 45-minute high intensity Freestyle Group Training workout this Wednesday. Let our trainers activate, engage and push you to the limits! \n\nDate & Time: August 23, 2017 (Wednesday) | 6.45pm - 7.30pm\nVenue: Boulevard - Level G, Paradigm Mall\nInstructor: Edgar, Jaythans & Plasma, Fitness First trainers\n \n*Open for all members & non-members.\n*Limited to 60 people. Pre-register at club required.",
+      "id": "136798519691139_1422075427830102"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Rejuvenate your body and soul with an enriching experience at Spa Village Resort Tembok, Bali.\n\nJoin us for a transformative 4-day yoga retreat featuring Thomas Yu, Jamie Chow, Steve Lee, Chris Wong and Sean Lee, Fitness First Yoga Instructors.\n\nLimited spaces available, reserve your spot by August 27, 2017!",
+      "id": "136798519691139_1418832618154383"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Unleash your inner warrior with Aqua Combat - an explosive energetic pool session combining a mix of martial arts, combat, and kick boxing.\n\nStrike, punch and kick against the resistance of the water to give you the results you want, fast!\n\nDate & Time: August 26, 2017 | 11.30am - 12.30pm\nVenue: Pool area, Fitness First Platinum Empire Subang\nAttire: Swimwear\nInstructors: Terence Tan and Renee (special guest)\n\n*Limited spaces available, registration open 1-hour before class commence.",
+      "id": "136798519691139_1419504708087174"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-08-17T13:06:07+0000",
+            "message": "cannot blame FF entirely. The elevators belongs to Empire management and it has been like this for a looooooooooong time. Just that this time is worse.",
+            "id": "1418687778168867_1418864521484526"
+          },
+          {
+            "created_time": "2017-08-18T06:46:26+0000",
+            "message": "",
+            "id": "1418687778168867_1419453184758993"
+          },
+          {
+            "created_time": "2017-08-17T10:26:46+0000",
+            "message": "Simply use the stairs as warm up",
+            "id": "1418687778168867_1418714254832886"
+          },
+          {
+            "created_time": "2017-08-18T09:40:43+0000",
+            "message": "Fit people should not use elevator",
+            "id": "1418687778168867_1419537244750587"
+          },
+          {
+            "created_time": "2017-08-17T10:51:15+0000",
+            "message": "Oooh i remember getting stuck in one of the lifts\n\nThe quality of the lifts are dodgy at the best...",
+            "id": "1418687778168867_1418729251498053"
+          },
+          {
+            "created_time": "2017-08-17T11:36:13+0000",
+            "message": "The lifts are already down for weeks. Now getting worse.",
+            "id": "1418687778168867_1418752091495769"
+          },
+          {
+            "created_time": "2017-08-17T11:25:19+0000",
+            "message": "Jayson Koh!!!!",
+            "id": "1418687778168867_1418746401496338"
+          },
+          {
+            "created_time": "2017-08-17T13:58:38+0000",
+            "message": "So long and not rectified yet 😇😇",
+            "id": "1418687778168867_1418899564814355"
+          },
+          {
+            "created_time": "2017-08-17T15:58:53+0000",
+            "message": "Good warmup",
+            "id": "1418687778168867_1418971791473799"
+          },
+          {
+            "created_time": "2017-08-18T06:45:57+0000",
+            "message": "",
+            "id": "1418687778168867_1419452074759104"
+          },
+          {
+            "created_time": "2017-08-17T13:49:23+0000",
+            "message": "Terrence Lim climb stairs tomorrow lol",
+            "id": "1418687778168867_1418894624814849"
+          },
+          {
+            "created_time": "2017-08-18T01:56:17+0000",
+            "message": "🙊",
+            "id": "1418687778168867_1419302314774080"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MTQZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 14,
+          "can_comment": true
+        }
+      },
+      "message": "Please be advised the main elevators to Fitness First Platinum Empire Subang are currently out of service due to technical difficulties. \n\nMembers, please visit the other clubs for your workout. Also, you may use the other option to access the club, for example - the emergency lift or simply use the stairs.\n\nWe apologise for the inconvenience caused.\nThank you for your patience and understanding.",
+      "id": "136798519691139_1418687778168867"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-08-24T16:58:10+0000",
+            "message": "Is this open for public?",
+            "id": "1417730604931251_1424739760897002"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MQZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 1,
+          "can_comment": true
+        }
+      },
+      "message": "Get dressed down in swanky summer gear and join us for a beach-themed party with Zumba Launch Tour.\n\nChoreographed with intervals of intensity, enjoy a total workout that combines all elements of fitness – cardio, conditioning, balance and flexibility.\n\nZUMBA LAUNCH TOUR\nDate: August 21 - 30, 2017\nVenue: All Fitness First clubs\n\nCheck out the timetable here: http://bit.ly/ZumbaLaunchTour",
+      "id": "136798519691139_1417730604931251"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "ZUMBA LAUNCH TOUR",
+      "id": "136798519691139_1417443648293280"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "Looking for a more challenging workout? Try the all new releases of BURN & SURGE at selected Fitness First clubs. Your favourite classes will be releasing new moves so you don't want to miss out!\n\nCheck out the timetable here: http://bit.ly/BURNSURGEnewreleases",
+      "id": "136798519691139_1416617101709268"
+    },
+    {
+      "comments": {
+        "data": [],
+        "summary": {
+          "order": "ranked",
+          "total_count": 0,
+          "can_comment": true
+        }
+      },
+      "message": "BURN & SURGE",
+      "id": "136798519691139_1416572475047064"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-08-26T11:16:39+0000",
+            "message": "only he want money",
+            "id": "1415836091787369_1426149634089348"
+          },
+          {
+            "created_time": "2017-08-28T07:50:17+0000",
+            "message": "Nice",
+            "id": "1415836091787369_1427658973938414"
+          },
+          {
+            "created_time": "2017-08-26T11:16:23+0000",
+            "message": "this all team is lai",
+            "id": "1415836091787369_1426149520756026"
+          },
+          {
+            "created_time": "2017-08-19T06:19:34+0000",
+            "message": "👍",
+            "id": "1415836091787369_1420278281343150"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "NgZDZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 6,
+          "can_comment": true
+        }
+      },
+      "message": "\"WE ARE committed to our training. WE ARE driven to improve everyday.\"\n\nActivate your muscles with MOVE; get that day-long metabolism boost you have been wanting with BURN; and unleash your inner athleticism by combining speed, stamina, agility and power training with SURGE.\n\nTransform your body and push it to the limit with our Signature programmes today.",
+      "id": "136798519691139_1415836091787369"
+    },
+    {
+      "comments": {
+        "data": [
+          {
+            "created_time": "2017-08-10T10:26:39+0000",
+            "message": "You know how sometimes you meet someone who inspires you beyond words? Someone who helps you put life into a better perspective? Well it just happened  to me..\nMet this tough young men CK Loh and battling a life physical defect since born.. He's one of the passionate and happiest men I've ever met, what makes it EXTRA COOL is when he just don't quite know how profoundly he inspire all those around him.\nFor me.. Meetings like this are easily the greatest part of fame, my man.. great to met you and thx for inspiration - keep working hard buddy, remember....",
+            "id": "1412303285473983_1412546298783015"
+          },
+          {
+            "created_time": "2017-08-13T05:02:05+0000",
+            "message": "Respect and proud of him!!!",
+            "id": "1412303285473983_1414868198550825"
+          },
+          {
+            "created_time": "2017-08-17T14:21:39+0000",
+            "message": "Sakthidasan Subaramonia check it out 💪",
+            "id": "1412303285473983_1418914704812841"
+          },
+          {
+            "created_time": "2017-08-30T07:34:32+0000",
+            "message": "Real spartan training ! Dnivrad Darvind",
+            "id": "1412303285473983_1429267050444273"
+          },
+          {
+            "created_time": "2017-08-18T11:45:44+0000",
+            "message": "How do I enrol if I am interested in this program? What is the cost like?",
+            "id": "1412303285473983_1419603594743952"
+          },
+          {
+            "created_time": "2017-08-25T13:58:17+0000",
+            "message": "Dear friend, look at this guy, he is so determined even he has one arm, what about other, we have everything, there is not excuse for not doing it. Winner and fighter will never lose or quit .",
+            "id": "1412303285473983_1425439570827021"
+          },
+          {
+            "created_time": "2017-08-11T10:58:52+0000",
+            "message": "yeaahhh !!!",
+            "id": "1412303285473983_1413376708699974"
+          },
+          {
+            "created_time": "2017-08-21T00:11:55+0000",
+            "message": "met this guy during Cameron Ultra 2017",
+            "id": "1412303285473983_1421782221192756"
+          },
+          {
+            "created_time": "2017-08-16T00:53:13+0000",
+            "message": "Respect and proud of him!",
+            "id": "1412303285473983_1417254214978890"
+          },
+          {
+            "created_time": "2017-08-11T05:11:43+0000",
+            "message": "Winter Hardbrick what is ur excuse",
+            "id": "1412303285473983_1413213072049671"
+          },
+          {
+            "created_time": "2017-08-13T09:47:56+0000",
+            "message": "Semangat",
+            "id": "1412303285473983_1415016101869368"
+          },
+          {
+            "created_time": "2017-08-22T13:53:29+0000",
+            "message": "You just inspired me, awesome",
+            "id": "1412303285473983_1423011861069792"
+          },
+          {
+            "created_time": "2017-08-13T05:04:29+0000",
+            "message": "Bravo bro!",
+            "id": "1412303285473983_1414869348550710"
+          },
+          {
+            "created_time": "2017-08-30T11:45:13+0000",
+            "message": "Respect and love it!!\nTERBAIK DIA NI",
+            "id": "1412303285473983_1429394963764815"
+          },
+          {
+            "created_time": "2017-08-12T12:50:03+0000",
+            "message": "Pround",
+            "id": "1412303285473983_1414290795275232"
+          },
+          {
+            "created_time": "2017-08-12T15:26:55+0000",
+            "message": "👍👍",
+            "id": "1412303285473983_1414391065265205"
+          },
+          {
+            "created_time": "2017-08-26T02:37:21+0000",
+            "message": "Respect",
+            "id": "1412303285473983_1425905217447123"
+          }
+        ],
+        "paging": {
+          "cursors": {
+            "before": "MjQZD",
+            "after": "MQZDZD"
+          }
+        },
+        "summary": {
+          "order": "ranked",
+          "total_count": 24,
+          "can_comment": true
+        }
+      },
+      "message": "\"I AM a fighter not a quitter\", C. K. Loh, Friend of Fitness First.\n\nPreparing for a Spartan Beast requires a comprehensive Spartan training programme that will improve your endurance, power and strength. The 10-week programme tailored by our Fitness First-Spartan trainers will help to accomplish your goals.\n\nEach session will challenge you in a different way to prepare you for the various sprints and obstacles you will face during the race. Join our training class where NO ONE gets left behind!\n\nCheck out our Fitness First Spartan Workout timetable for more details: http://bit.ly/FitnessFirstSpartanWorkout",
+      "id": "136798519691139_1412303285473983"
+    }
+  ]
+}

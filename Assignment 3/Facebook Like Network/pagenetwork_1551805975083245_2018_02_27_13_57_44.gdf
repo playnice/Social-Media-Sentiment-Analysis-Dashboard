@@ -1,0 +1,82 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+1551805975083245,Hahanoyume,"Haha no yume 母の夢","Baby & Children's Clothing Store",0.02,6419,196,no,https://www.facebook.com/Hahanoyume/
+202048279814065,kaleidoscope.publika,"Kaleidoscope - lifestyle store","Shopping & Retail",0,1754,1,yes,https://www.facebook.com/kaleidoscope.publika/
+198941320152236,BlueCicadaPhotography,"BlueCicada Photography - La Vie Telle Qu'elle Est",Artist,0.01,883,51,yes,https://www.facebook.com/BlueCicadaPhotography/
+264273913608746,ilovehellodeer,"Hello Deer","Gift Shop",0.02,8388,10,no,https://www.facebook.com/ilovehellodeer/
+165891436836042,devnanijewels,"Devnani Store - Diamond Jewellery & Italian Fashion Jewelry","Jewelry & Watches Store",0,2780,2,yes,https://www.facebook.com/devnanijewels/
+120855874648183,thingsforwhenever,"Things For Whenever","Shopping & Retail",0,2191,1,yes,https://www.facebook.com/thingsforwhenever/
+153060494722431,PetibisouClothing,Petibisou,"Clothing (Brand)",0,1327,0,yes,https://www.facebook.com/PetibisouClothing/
+170718752986180,,"Little Abarcas","Clothing (Brand)",0,1170,3,yes,https://www.facebook.com/Little-Abarcas-170718752986180/
+153413648022344,PublikaGallery,Publika,"Shopping District",0.07,58996,852,yes,https://www.facebook.com/PublikaGallery/
+196602641446,,"Matching Misfits","Retail Company",0,986,0,yes,https://www.facebook.com/Matching-Misfits-196602641446/
+21180151561,SzeAccessories,Www.SzeAccessories.Com,"Clothing Store",0,2045,0,no,https://www.facebook.com/SzeAccessories/
+161987043590,ilovesnackfood,"I Love Snackfood","Shopping & Retail",0.02,9222,18,yes,https://www.facebook.com/ilovesnackfood/
+151992114337,bisoubonbonbotanicals,"Bisou BonBon","Local Business",0,2457,3,yes,https://www.facebook.com/bisoubonbonbotanicals/
+204003459629027,iheartbadges,iHeartBadges.com,"Local Business",0,2793,1,yes,https://www.facebook.com/iheartbadges/
+47074785288,soakrepublic,SoakRepublic,Website,0,6002,3,no,https://www.facebook.com/soakrepublic/
+1918194745116237,narrateursdevie,"Narrateurs de Vie - De l'Encre à la Lumière, Magazine d'inspiration",Community,0.01,463,41,yes,https://www.facebook.com/narrateursdevie/
+105101489968420,narrateursdevielaformation,"Narrateurs de Vie - La Formation",Community,0,131,0,yes,https://www.facebook.com/narrateursdevielaformation/
+133736946700874,letthekids,"Let the Kids Dress Themselves","Local Business",0.01,18701,19,yes,https://www.facebook.com/letthekids/
+478934218827887,ChristineDoneePhotography,"Christine Doneé Photography",Artist,0,960,0,yes,https://www.facebook.com/ChristineDoneePhotography/
+131884983553711,NektarLIfestyle,Nektar,Photographer,0.01,1838,23,yes,https://www.facebook.com/NektarLIfestyle/
+756080974520270,photography.jenniferwood,"Jennifer Wood Photography",Photographer,0,295,0,yes,https://www.facebook.com/photography.jenniferwood/
+890647470998758,Iammostextraordinary,"I am ME",Community,0,2620,4,yes,https://www.facebook.com/Iammostextraordinary/
+1580150342265323,rockmyfamilyblog,"Rock My Family","Media/News Company",0.02,5612,2,no,https://www.facebook.com/rockmyfamilyblog/
+1416206675281141,bakedbylisa.my,"Baked by Lisa","Wholesale Bakery",0,498,0,yes,https://www.facebook.com/bakedbylisa.my/
+286159011561802,happygokl,"Happy Go KL - All About Kuala Lumpur for Families","Local & Travel Website",0.06,5782,227,yes,https://www.facebook.com/happygokl/
+591694234193207,smpliving,"Style Me Pretty Living",Website,0.13,63776,328,no,https://www.facebook.com/smpliving/
+106596606074020,blanccocophotographe,"Blanc coco Photographe",Photographer,0.02,3040,1,no,https://www.facebook.com/blanccocophotographe/
+540213126028477,portraitoupaysage,"Portrait ou paysage",Photographer,0.01,7044,30,yes,https://www.facebook.com/portraitoupaysage/
+223100121051404,simplrmy,"Simplr Album",Product/Service,0,1423,1,yes,https://www.facebook.com/simplrmy/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+1551805975083245,202048279814065,true
+1551805975083245,198941320152236,true
+1551805975083245,264273913608746,true
+202048279814065,165891436836042,true
+202048279814065,120855874648183,true
+202048279814065,153060494722431,true
+202048279814065,170718752986180,true
+202048279814065,153413648022344,true
+202048279814065,196602641446,true
+202048279814065,21180151561,true
+202048279814065,161987043590,true
+202048279814065,151992114337,true
+202048279814065,204003459629027,true
+202048279814065,47074785288,true
+198941320152236,1918194745116237,true
+198941320152236,105101489968420,true
+198941320152236,133736946700874,true
+198941320152236,478934218827887,true
+198941320152236,131884983553711,true
+198941320152236,756080974520270,true
+198941320152236,890647470998758,true
+198941320152236,1580150342265323,true
+198941320152236,1416206675281141,true
+198941320152236,286159011561802,true
+198941320152236,591694234193207,true
+198941320152236,106596606074020,true
+198941320152236,540213126028477,true
+198941320152236,223100121051404,true
+165891436836042,202048279814065,true
+165891436836042,153413648022344,true
+120855874648183,202048279814065,true
+170718752986180,153413648022344,true
+170718752986180,202048279814065,true
+153413648022344,202048279814065,true
+153413648022344,165891436836042,true
+161987043590,204003459629027,true
+161987043590,153413648022344,true
+161987043590,202048279814065,true
+151992114337,153413648022344,true
+151992114337,202048279814065,true
+204003459629027,47074785288,true
+204003459629027,161987043590,true
+47074785288,202048279814065,true
+47074785288,153413648022344,true
+131884983553711,198941320152236,true
+131884983553711,890647470998758,true
+131884983553711,133736946700874,true
+890647470998758,131884983553711,true
+286159011561802,198941320152236,true
+540213126028477,106596606074020,true
+540213126028477,133736946700874,true
